@@ -5,6 +5,7 @@ pubDate: 2021-03-21
 updatedDate: 2022-04-09
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2019/08/yarden-financi%C3%ABle-problemen-featured-image.jpg"
 metaTitle: "Yarden Kampt Met Financiële Problemen | Wat Zijn Gevolgen Voor Jou?"
 ---
 

@@ -5,6 +5,7 @@ pubDate: 2021-04-03
 updatedDate: 2022-06-28
 author: "Jasper Jansen"
 categories: ["Sterbegeldversicherung"]
+image: "/wp-content/uploads/2022/02/sterbegeldversicherung-bei-insolvenz.jpg"
 metaTitle: "Sterbegeldversicherung Bei Insolvenz (2022) | Uitvaartpolis-online.de"
 ---
 

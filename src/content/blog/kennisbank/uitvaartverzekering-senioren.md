@@ -5,6 +5,7 @@ pubDate: 2019-01-17
 updatedDate: 2022-04-13
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2018/08/senioren.jpg"
 metaTitle: "Hoe Werkt De Uitvaartverzekering Voor Senioren In 2026 | Lees De Gids"
 ---
 

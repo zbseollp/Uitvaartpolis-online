@@ -5,6 +5,7 @@ pubDate: 2019-01-13
 updatedDate: 2022-04-19
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2019/08/cryomeren-afbeelding.jpg"
 metaTitle: "Is Cryomeren De Nieuwe Manier In Nederland in 2026? | Alles van A-Z!"
 ---
 

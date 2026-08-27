@@ -5,6 +5,7 @@ pubDate: 2020-05-16
 updatedDate: 2022-04-19
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2019/07/medische-acceptatie-uitvaartverzekering.jpg"
 metaTitle: "Medische Acceptatie En De Uitvaartverzekering | Hoe Werkt Het?"
 ---
 

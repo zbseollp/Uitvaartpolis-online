@@ -5,6 +5,7 @@ pubDate: 2021-04-08
 updatedDate: 2023-02-27
 author: "Jasper Jansen"
 categories: ["Sterbegeldversicherung"]
+image: "/wp-content/uploads/2022/02/kirchliche-beerdigung.jpg"
 metaTitle: "Kirchliche Beerdigung | Uitvaartpolis-online.com"
 ---
 

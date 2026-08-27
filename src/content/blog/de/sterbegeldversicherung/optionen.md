@@ -5,6 +5,7 @@ pubDate: 2021-07-24
 updatedDate: 2022-06-28
 author: "Jasper Jansen"
 categories: ["Sterbegeldversicherung"]
+image: "/wp-content/uploads/2022/02/sterbegeldversicherung-optionen.jpg"
 metaTitle: "Sterbegeldversicherung Optionen (2022) | Uitvaartpolis-online.de"
 ---
 

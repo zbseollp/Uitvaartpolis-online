@@ -5,6 +5,7 @@ pubDate: 2019-12-03
 updatedDate: 2023-02-27
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2018/08/rouwstoet.jpg"
 metaTitle: "Hoe Werkt Het Vervoer Naar De Uitvaart? Lees Er Alles Over In Onze Gids"
 ---
 

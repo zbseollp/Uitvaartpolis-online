@@ -5,6 +5,7 @@ pubDate: 2023-09-07
 updatedDate: 2023-09-07
 author: "Jasper Jansen"
 categories: ["Begrafenisondernemer"]
+image: "/wp-content/uploads/2019/08/amersfoort-begrafenisondernemer.jpg"
 metaTitle: "Begrafenisondernemer Amersfoort Nodig? | Vergelijk Gratis 5 Offertes!"
 compare: true
 ---

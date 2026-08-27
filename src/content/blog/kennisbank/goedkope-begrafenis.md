@@ -5,6 +5,7 @@ pubDate: 2019-01-18
 updatedDate: 2023-02-27
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2019/08/goedkoopste-begrafenis-afbeelding.jpg"
 metaTitle: "Goedkoopste Begrafenis in 2026 Regelen? | Bereken Direct De Kosten!"
 ---
 

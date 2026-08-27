@@ -5,6 +5,7 @@ pubDate: 2019-04-11
 updatedDate: 2025-07-11
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2019/08/goedkoopste-overlijdensrisicoverzekering.jpg"
 metaTitle: "Hoe Kan Ik De Goedkoopste Overlijdensrisicoverzekering Vinden In 2026?"
 ---
 

@@ -5,6 +5,7 @@ pubDate: 2020-04-02
 updatedDate: 2022-04-14
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2019/08/laatste-wilsbeschikking.jpg"
 metaTitle: "Wat Is De Laatste Wilsbeschikking? Lees Alles In Onze Gids Uit 2026"
 ---
 

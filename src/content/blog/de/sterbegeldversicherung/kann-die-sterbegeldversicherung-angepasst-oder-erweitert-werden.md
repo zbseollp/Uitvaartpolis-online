@@ -5,6 +5,7 @@ pubDate: 2021-07-02
 updatedDate: 2022-06-28
 author: "Jasper Jansen"
 categories: ["Sterbegeldversicherung"]
+image: "/wp-content/uploads/2018/08/uitvaartverzekering-uitbreiden-aanpassen.jpg"
 metaTitle: "Kann die Sterbegeldversicherung angepasst oder erweitert werden? (2022) | Uitvaartpolis-online.de"
 ---
 

@@ -5,6 +5,7 @@ pubDate: 2022-11-10
 updatedDate: 2022-11-10
 author: "Jasper Jansen"
 categories: ["Sterbegeldversicherung"]
+image: "/wp-content/uploads/2022/03/postbank-logo.jpg"
 metaTitle: "Postbank Sterbegeldversicherung - Uitvaartpolis-online.com"
 ---
 

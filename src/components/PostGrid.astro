@@ -1,24 +1,40 @@
 ---
 interface Item {
   id: string;
-  data: { title: string; description?: string; pubDate: Date; categories?: string[] };
+  data: {
+    title: string;
+    description?: string;
+    pubDate: Date;
+    categories?: string[];
+    image?: string;
+  };
 }
 interface Props {
   posts: Item[];
   showDate?: boolean;
   kicker?: boolean;
+  images?: boolean;
+  cols?: 2 | 3 | 4;
 }
-const { posts, showDate = true, kicker = true } = Astro.props;
+const { posts, showDate = true, kicker = true, images = true, cols = 3 } = Astro.props;
 const fmt = (d: Date) =>
   new Intl.DateTimeFormat('nl-NL', { day: 'numeric', month: 'long', year: 'numeric' }).format(d);
+const trim = (s: string, n: number) => (s.length > n ? s.slice(0, n).replace(/\s+\S*$/, '') + '…' : s);
 ---
-<div class="grid grid-3">
+<div class={`grid grid-${cols}`}>
   {posts.map((post) => (
     <a class="card" href={`/${post.id}/`}>
-      {kicker && post.data.categories?.[0] && <span class="kicker">{post.data.categories[0]}</span>}
-      <h3>{post.data.title}</h3>
-      {post.data.description && <p>{post.data.description.slice(0, 130)}{post.data.description.length > 130 ? '…' : ''}</p>}
-      {showDate && <span class="date">{fmt(post.data.pubDate)}</span>}
+      {images && post.data.image && (
+        <span class="thumb">
+          <img src={post.data.image} alt="" loading="lazy" decoding="async" />
+        </span>
+      )}
+      <span class="body">
+        {kicker && post.data.categories?.[0] && <span class="kicker">{post.data.categories[0]}</span>}
+        <h3>{post.data.title}</h3>
+        {post.data.description && <p>{trim(post.data.description, 118)}</p>}
+        {showDate && <span class="date">{fmt(post.data.pubDate)}</span>}
+      </span>
     </a>
   ))}
 </div>

@@ -4,6 +4,7 @@ description: "Het plannen van je eigen begrafenis is essentieel voor de financi√
 pubDate: 2024-05-28
 author: "Jasper Jansen"
 categories: ["Blog"]
+image: "/wp-content/uploads/2024/05/photo-1484807352052-23338990c6c6.jpg"
 metaTitle: "Hoe kun je je eigen uitvaart financieren met Mijn Monuta? - Uitvaartpolis-online.com"
 ---
 

@@ -5,6 +5,7 @@ pubDate: 2020-07-28
 updatedDate: 2022-04-21
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2019/08/overlijdensrisicoverzekering-chronisch-zieken.jpg"
 metaTitle: "Overlijdensrisicoverzekering Chronisch Zieken | Lees Onze GIDS"
 ---
 

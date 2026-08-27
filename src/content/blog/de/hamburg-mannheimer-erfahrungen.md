@@ -5,6 +5,7 @@ pubDate: 2022-06-29
 updatedDate: 2022-06-29
 author: "Jasper Jansen"
 categories: ["Sterbegeldversicherung"]
+image: "/wp-content/uploads/2022/03/hamburg-mannheimer-logo.jpg"
 metaTitle: "Sterbegeldversicherung Hamburg Mannheimer (2022) | Uitvaartpolis-online.de"
 ---
 

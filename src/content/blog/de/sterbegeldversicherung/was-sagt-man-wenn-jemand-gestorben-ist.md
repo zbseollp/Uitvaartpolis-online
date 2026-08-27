@@ -5,6 +5,7 @@ pubDate: 2021-09-18
 updatedDate: 2022-06-27
 author: "Jasper Jansen"
 categories: ["Sterbegeldversicherung"]
+image: "/wp-content/uploads/2022/02/was-ware-wenn-sagen-wenn-jemand-verstorben-ist.jpg"
 metaTitle: "Was sagt man, wenn jemand gestorben ist? † Tipps & Beispiele ansehen (2022) | Uitvaartpolis-online.de"
 ---
 

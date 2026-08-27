@@ -5,6 +5,7 @@ pubDate: 2023-08-31
 updatedDate: 2023-08-31
 author: "Jasper Jansen"
 categories: ["Sterbegeldversicherung"]
+image: "/wp-content/uploads/2023/08/bvag.jpg"
 metaTitle: "Sterbegeldversicherung Allianz (2022) | Uitvaartpolis-online.de"
 ---
 

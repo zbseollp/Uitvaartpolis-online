@@ -5,6 +5,7 @@ pubDate: 2019-11-22
 updatedDate: 2022-08-01
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2020/06/kat-laten-cremeren.jpg"
 metaTitle: "Kat Cremeren: Mogelijkheden, Kosten & Aandachtspunten In 2026"
 ---
 

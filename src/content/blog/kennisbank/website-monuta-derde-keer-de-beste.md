@@ -5,6 +5,7 @@ pubDate: 2020-05-05
 updatedDate: 2022-04-20
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2019/08/monuta-website-de-beste-featured-image.jpg"
 metaTitle: "Monuta Website Wederom Als Beste Uit De Test Gekomen | Kom Erachter!"
 ---
 

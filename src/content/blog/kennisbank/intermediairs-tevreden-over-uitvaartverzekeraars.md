@@ -5,6 +5,7 @@ pubDate: 2020-10-01
 updatedDate: 2022-04-20
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2019/08/intermediairs-tevreden-over-uitvaartverzekeraars-featured-image.jpg"
 metaTitle: "Grote Tevredenheid Onder Intermediairs Over De Uitvaartvezekeraars"
 ---
 

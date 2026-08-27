@@ -5,6 +5,7 @@ pubDate: 2020-04-04
 updatedDate: 2022-04-12
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2019/08/gemeente-begrafenis-featured-image.jpg"
 metaTitle: "Wanneer Begrafenis Na Overlijden? Alle Informatie Vind Je Hier!"
 ---
 

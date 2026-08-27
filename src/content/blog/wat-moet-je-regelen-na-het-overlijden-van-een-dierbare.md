@@ -5,6 +5,7 @@ pubDate: 2023-09-01
 updatedDate: 2023-09-04
 author: "Jasper Jansen"
 categories: ["Blog"]
+image: "/wp-content/uploads/2023/09/6761.jpg"
 metaTitle: "Wat moet je regelen na het overlijden van een dierbare? - Uitvaartpolis-online.com"
 compare: true
 ---

@@ -5,6 +5,7 @@ pubDate: 2023-09-04
 updatedDate: 2023-09-05
 author: "Jasper Jansen"
 categories: ["Blog"]
+image: "/wp-content/uploads/2023/09/testament-opstellen.jpg"
 metaTitle: "Waarom je een testament nodig hebt als je een uitvaartpolis hebt - Uitvaartpolis-online.com"
 ---
 

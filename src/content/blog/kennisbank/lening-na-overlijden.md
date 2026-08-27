@@ -5,6 +5,7 @@ pubDate: 2019-11-07
 updatedDate: 2022-04-19
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2018/08/lening-na-overlijden.jpg"
 metaTitle: "Wat Te Doen Met Leningen Na Overlijden? | Alles In Een Handige Gids"
 ---
 

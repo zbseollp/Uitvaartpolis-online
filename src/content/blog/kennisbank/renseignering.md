@@ -5,6 +5,7 @@ pubDate: 2021-04-12
 updatedDate: 2022-04-20
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2020/05/renseignering-afbeelding.jpg"
 metaTitle: "Renseignering | Bekijk Alle Informatie & Lees Over Veel Gestelde Vragen!"
 ---
 

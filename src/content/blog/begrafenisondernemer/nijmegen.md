@@ -5,6 +5,7 @@ pubDate: 2020-03-19
 updatedDate: 2022-07-01
 author: "Jasper Jansen"
 categories: ["Begrafenisondernemer"]
+image: "/wp-content/uploads/2019/08/nijmegen-begrafenisondernemer.jpg"
 metaTitle: "Begrafenisondernemer Nijmegen Nodig? | Vergelijk Gratis 5 Offertes!"
 compare: true
 ---

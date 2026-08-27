@@ -5,6 +5,7 @@ pubDate: 2022-06-23
 updatedDate: 2022-06-23
 author: "Jasper Jansen"
 categories: ["Reviews"]
+image: "/wp-content/uploads/2022/03/klaverblad-levensverzekering.png"
 metaTitle: "Klaverblad Levensverzekering Afsluiten | Lees Alles Van A-Z!"
 ---
 

@@ -5,6 +5,7 @@ pubDate: 2021-06-08
 updatedDate: 2023-02-27
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2021/10/voordelen-verzekeren.jpg"
 metaTitle: "Wat zijn de specifieke voordelen van verzekeren in 2026? Lees hier alles!"
 ---
 

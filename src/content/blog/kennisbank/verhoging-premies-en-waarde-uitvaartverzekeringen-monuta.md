@@ -5,6 +5,7 @@ pubDate: 2019-10-22
 updatedDate: 2022-04-20
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2019/08/premie-en-waarde-verhoging-uitvaartverzekeringen-monuta.jpg"
 metaTitle: "Monuta Verhoogd Premies & Waarde Van Uitvaartverzekeringen In 2019"
 ---
 

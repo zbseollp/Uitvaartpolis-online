@@ -5,6 +5,7 @@ pubDate: 2024-10-14
 updatedDate: 2024-10-16
 author: "Jasper Jansen"
 categories: ["Blog"]
+image: "/wp-content/uploads/2024/10/11276.jpg"
 metaTitle: "De meest bizarre verhalen wat mensen met een erfenis hebben gedaan - Uitvaartpolis-online.com"
 ---
 

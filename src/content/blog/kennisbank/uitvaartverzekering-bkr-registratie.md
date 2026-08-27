@@ -5,6 +5,7 @@ pubDate: 2018-12-27
 updatedDate: 2022-04-19
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2018/09/bkr-regisitratie-featured-image.jpg"
 metaTitle: "Hoe Zit Het Met De BKR Registratie En Afsluiten Van Een Uitvaartverzekering"
 ---
 

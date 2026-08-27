@@ -4,6 +4,7 @@ description: "Het leven is een aaneenschakeling van gebeurtenissen, sommige blij
 pubDate: 2023-12-31
 author: "Jasper Jansen"
 categories: ["Blog"]
+image: "/wp-content/uploads/2023/12/pexels-jill-wellington-40192-1.jpg"
 metaTitle: "Levensveranderingen die aangeven dat het tijd is voor een uitvaartverzekering - Uitvaartpolis-online.com"
 ---
 

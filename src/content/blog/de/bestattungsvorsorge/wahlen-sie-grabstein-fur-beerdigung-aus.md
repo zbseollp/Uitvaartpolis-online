@@ -5,6 +5,7 @@ pubDate: 2022-01-05
 updatedDate: 2022-06-27
 author: "Jasper Jansen"
 categories: ["Sterbegeldversicherung"]
+image: "/wp-content/uploads/2022/02/grabstein-nach-der-beerdigung.jpg"
 metaTitle: "So wählen Sie einen Grabstein für nach der Beerdigung aus (2022) | Uitvaartpolis-online.de"
 ---
 

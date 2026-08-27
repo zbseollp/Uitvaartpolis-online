@@ -4,6 +4,7 @@ description: "Het kiezen van de juiste uitvaartverzekering is een belangrijke en
 pubDate: 2023-12-21
 author: "Jasper Jansen"
 categories: ["Blog"]
+image: "/wp-content/uploads/2023/01/uitvaartverzekering-scheiding.jpg"
 metaTitle: "Welke uitvaartverzekering past bij jouw unieke wensen - Uitvaartpolis-online.com"
 ---
 

@@ -5,6 +5,7 @@ pubDate: 2019-11-14
 updatedDate: 2022-04-19
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2019/08/dankbetuiging-featured-image.jpg"
 metaTitle: "Dankbetuiging Schrijven | Wat Is Het & Hoe Werkt Het? | Met Voorbeelden!"
 ---
 

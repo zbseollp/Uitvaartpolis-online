@@ -5,6 +5,7 @@ pubDate: 2025-03-06
 updatedDate: 2025-03-06
 author: "Jasper Jansen"
 categories: ["Sterbegeldversicherung"]
+image: "/wp-content/uploads/2025/03/Uitvaartverzekering.jpg"
 metaTitle: "Uitvaartverzekering: waarom verstandig en waarom nodig? - Uitvaartpolis-online.com"
 ---
 

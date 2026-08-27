@@ -5,6 +5,7 @@ pubDate: 2023-05-30
 updatedDate: 2023-05-30
 author: "Jasper Jansen"
 categories: ["Blog"]
+image: "/wp-content/uploads/2023/05/uitvaartwensne.jpeg"
 metaTitle: "Waarom het belangrijk is om uw uitvaartwensen vast te leggen - Uitvaartpolis-online.com"
 ---
 

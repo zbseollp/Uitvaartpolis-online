@@ -5,6 +5,7 @@ pubDate: 2020-09-10
 updatedDate: 2022-04-15
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2020/07/NHG-hypotheek.jpg"
 metaTitle: "NHG hypotheek | Berekenen, Informatie, Voorwaarden | Bekijk Direct!"
 ---
 

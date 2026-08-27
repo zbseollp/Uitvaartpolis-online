@@ -5,6 +5,7 @@ pubDate: 2022-08-04
 updatedDate: 2023-01-12
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2022/08/verlies-van-een-kind.jpg"
 metaTitle: "Hoe omgaan met het verlies van een kind? - Uitvaartpolis-online.com"
 ---
 

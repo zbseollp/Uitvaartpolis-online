@@ -4,6 +4,7 @@ description: "Verlies is een onvermijdelijk onderdeel van het leven, en het omga
 pubDate: 2023-08-27
 author: "Jasper Jansen"
 categories: ["Blog"]
+image: "/wp-content/uploads/2023/08/rouwsieraden-laten-maken.jpg"
 metaTitle: "Sieraden voor herinnering en troost: rouwsieraden met gedenkwaardige elementen - Uitvaartpolis-online.com"
 ---
 

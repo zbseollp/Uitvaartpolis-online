@@ -5,6 +5,7 @@ pubDate: 2023-09-16
 updatedDate: 2023-09-17
 author: "Jasper Jansen"
 categories: ["Sterbegeldversicherung"]
+image: "/wp-content/uploads/2022/11/sterbeversicherung-fur-ehepaare.jpg"
 metaTitle: "Sterbegeldversicherung Für Eheleute (2022) | Uitvaartpolis-online.de"
 ---
 

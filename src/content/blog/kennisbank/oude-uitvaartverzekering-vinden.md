@@ -5,6 +5,7 @@ pubDate: 2020-07-06
 updatedDate: 2025-07-11
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2019/08/oude-uitvaartverzekering-terugvinden.jpg"
 metaTitle: "Is Het Moeilijk Om Een Oude Uitvaartverzekering Te Achterhalen?"
 ---
 

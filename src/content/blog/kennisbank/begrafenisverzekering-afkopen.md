@@ -5,6 +5,7 @@ pubDate: 2021-05-04
 updatedDate: 2023-02-27
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2018/10/afkopen.jpeg"
 metaTitle: "Begrafenisverzekering Afkopen In 2026? Hoe Werkt Het? Lees Tips!"
 ---
 

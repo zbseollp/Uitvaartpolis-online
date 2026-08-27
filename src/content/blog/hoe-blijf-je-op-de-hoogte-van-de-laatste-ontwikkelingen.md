@@ -5,6 +5,7 @@ pubDate: 2024-05-02
 updatedDate: 2024-05-02
 author: "Jasper Jansen"
 categories: ["Blog"]
+image: "/wp-content/uploads/2024/04/bybit-nederland-1.jpg"
 metaTitle: "Hoe Blijf je op de Hoogte van de Laatste Ontwikkelingen - Uitvaartpolis-online.com"
 ---
 

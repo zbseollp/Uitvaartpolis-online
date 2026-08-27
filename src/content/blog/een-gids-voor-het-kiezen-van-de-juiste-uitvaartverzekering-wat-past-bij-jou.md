@@ -5,6 +5,7 @@ pubDate: 2023-12-22
 updatedDate: 2023-12-22
 author: "Jasper Jansen"
 categories: ["Blog"]
+image: "/wp-content/uploads/2023/12/pexels-mikhail-nilov-8297425-scaled.jpg"
 metaTitle: "Een gids voor het kiezen van de juiste uitvaartverzekering: Wat past bij jou? - Uitvaartpolis-online.com"
 ---
 

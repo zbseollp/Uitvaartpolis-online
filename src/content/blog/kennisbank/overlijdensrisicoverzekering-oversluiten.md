@@ -5,6 +5,7 @@ pubDate: 2021-06-02
 updatedDate: 2022-06-06
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2019/08/overlijdensrisicoverzekering-oversluiten-featured-image.jpg"
 metaTitle: "Overlijdensrisicoverzekering Oversluiten In 2026? Lees Er Hier Alles Over!"
 ---
 

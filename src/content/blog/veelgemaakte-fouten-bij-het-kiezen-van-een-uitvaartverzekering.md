@@ -5,6 +5,7 @@ pubDate: 2024-06-28
 updatedDate: 2024-06-28
 author: "Jasper Jansen"
 categories: ["Blog"]
+image: "/wp-content/uploads/2024/06/pexels-life-of-pix-7974.jpg"
 metaTitle: "Veelgemaakte fouten bij het kiezen van een uitvaartverzekering - Uitvaartpolis-online.com"
 ---
 

@@ -4,6 +4,7 @@ description: "De beslissing om een uitvaartpolis af te sluiten is een belangrijk
 pubDate: 2024-04-23
 author: "Jasper Jansen"
 categories: ["Blog"]
+image: "/wp-content/uploads/2023/12/pexels-jill-wellington-40192-1.jpg"
 metaTitle: "De kosten en voordelen van een uitvaartpolis - Uitvaartpolis-online.com"
 ---
 

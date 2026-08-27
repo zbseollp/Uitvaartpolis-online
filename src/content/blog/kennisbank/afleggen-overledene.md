@@ -5,6 +5,7 @@ pubDate: 2019-10-12
 updatedDate: 2025-07-10
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2019/08/afleggen-overledene.jpg"
 metaTitle: "Het Afleggen Van Een Overledene, Wat Is Dat Precies En Hoe Werkt Het?"
 ---
 

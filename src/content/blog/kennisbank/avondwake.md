@@ -5,6 +5,7 @@ pubDate: 2019-08-05
 updatedDate: 2025-07-10
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2020/07/Avondwake.jpg"
 metaTitle: "Avondwake | Wat Houdt Het Precies In? | Lees Alles Van A-Z"
 ---
 

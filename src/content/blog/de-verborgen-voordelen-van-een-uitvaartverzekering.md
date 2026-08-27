@@ -4,6 +4,7 @@ description: "Een uitvaartverzekering wordt vaak gezien als een somber product, 
 pubDate: 2023-12-28
 author: "Jasper Jansen"
 categories: ["Blog"]
+image: "/wp-content/uploads/2023/03/Afbeelding1.jpg"
 metaTitle: "De verborgen voordelen van een uitvaartverzekering - Uitvaartpolis-online.com"
 ---
 

@@ -5,6 +5,7 @@ pubDate: 2020-01-13
 updatedDate: 2023-02-27
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2018/08/studenten-en-een-uitvaartverzekering.jpg"
 metaTitle: "Is Er Een Speciale Uitvaartverzekering Voor Studenten? Lees De GIDS!"
 ---
 

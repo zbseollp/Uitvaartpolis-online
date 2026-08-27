@@ -5,6 +5,7 @@ pubDate: 2018-12-14
 updatedDate: 2022-10-24
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2018/10/annuitair-dalend-overlijdensrisicoverzekering.jpg"
 metaTitle: "Wat Is De Annuïtair Dalende Overlijdensrisicoverzekering Precies?"
 ---
 

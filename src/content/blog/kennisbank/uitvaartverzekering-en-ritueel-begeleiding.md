@@ -5,6 +5,7 @@ pubDate: 2020-12-10
 updatedDate: 2022-04-11
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2018/08/uitvaartverzekering-ritueelbegeleiding.jpg"
 metaTitle: "Ritueel Begeleiding En De Uitvaartverzekering In 2026 | Hoe Werkt Het?"
 ---
 

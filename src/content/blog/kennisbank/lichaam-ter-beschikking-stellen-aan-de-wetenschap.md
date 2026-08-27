@@ -5,6 +5,7 @@ pubDate: 2020-11-04
 updatedDate: 2022-04-20
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2020/07/Lichaam-ter-beschikking-stellen-aan-de-wetenschap.jpg"
 metaTitle: "Lichaam Ter Beschikking Stellen Aan De Wetenschap | Lees Alles Van A-Z"
 ---
 

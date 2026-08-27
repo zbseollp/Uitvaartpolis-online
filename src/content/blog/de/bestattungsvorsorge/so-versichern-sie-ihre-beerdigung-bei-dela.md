@@ -5,6 +5,7 @@ pubDate: 2021-12-17
 updatedDate: 2022-06-27
 author: "Jasper Jansen"
 categories: ["Sterbegeldversicherung"]
+image: "/wp-content/uploads/2022/02/dela-bestattungsversicherung-fur-sie.jpg"
 metaTitle: "So versichern Sie Ihre Beerdigung bei DELA (2022) | Uitvaartpolis-online.de"
 ---
 

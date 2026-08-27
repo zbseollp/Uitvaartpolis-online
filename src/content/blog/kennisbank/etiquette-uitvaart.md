@@ -5,6 +5,7 @@ pubDate: 2020-02-14
 updatedDate: 2022-04-15
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2019/08/uitvaart-etiquette.png"
 metaTitle: "Hoe Zit Het Met De Etiquettes Tijdens Een Uitvaart In Nederland?"
 ---
 

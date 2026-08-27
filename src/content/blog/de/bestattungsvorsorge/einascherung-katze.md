@@ -5,6 +5,7 @@ pubDate: 2021-06-15
 updatedDate: 2022-06-28
 author: "Jasper Jansen"
 categories: ["Sterbegeldversicherung"]
+image: "/wp-content/uploads/2020/06/kat-laten-cremeren.jpg"
 metaTitle: "Einäscherung einer Katze, wie genau funktioniert das und was kostet es? (2022) | Uitvaartpolis-online.de"
 ---
 

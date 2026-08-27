@@ -5,6 +5,7 @@ pubDate: 2022-11-09
 updatedDate: 2022-11-10
 author: "Jasper Jansen"
 categories: ["Sterbegeldversicherung"]
+image: "/wp-content/uploads/2022/02/sterbegeldversicherung-fur-rentner.jpg"
 metaTitle: "Sterbegeldversicherung Für Rentner (2022) | Uitvaartpolis-online.de"
 ---
 

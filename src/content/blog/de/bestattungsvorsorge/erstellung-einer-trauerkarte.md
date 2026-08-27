@@ -5,6 +5,7 @@ pubDate: 2021-05-08
 updatedDate: 2022-06-28
 author: "Jasper Jansen"
 categories: ["Sterbegeldversicherung"]
+image: "/wp-content/uploads/2018/08/rouwkaart-featured.jpg"
 metaTitle: "Bei der Erstellung einer Trauerkarte sind einige Punkte zu beachten (2022) | Uitvaartpolis-online.de"
 ---
 

@@ -5,6 +5,7 @@ pubDate: 2024-06-30
 updatedDate: 2024-06-30
 author: "Jasper Jansen"
 categories: ["Blog"]
+image: "/wp-content/uploads/2024/06/icp2.webp"
 metaTitle: "ICP coin verwachting - Uitvaartpolis-online.com"
 ---
 

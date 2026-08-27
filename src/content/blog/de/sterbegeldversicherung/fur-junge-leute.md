@@ -5,6 +5,7 @@ pubDate: 2021-08-12
 updatedDate: 2022-06-28
 author: "Jasper Jansen"
 categories: ["Sterbegeldversicherung"]
+image: "/wp-content/uploads/2022/02/sterbegeldversicherung-fur-junge-leute.jpg"
 metaTitle: "Sterbegeldversicherung Für Junge Leute (2022) | Uitvaartpolis-online.de"
 ---
 

@@ -5,6 +5,7 @@ pubDate: 2024-08-17
 updatedDate: 2024-08-17
 author: "Jasper Jansen"
 categories: ["Blog"]
+image: "/wp-content/uploads/2024/03/hoe-koop-ik-cryptomunten-1.jpg"
 metaTitle: "CryptoPunks: het iconische NFT verzamelobject van de digitale era - Uitvaartpolis-online.com"
 ---
 

@@ -5,6 +5,7 @@ pubDate: 2021-06-07
 updatedDate: 2022-06-06
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2020/08/Carenzjaren.jpg"
 metaTitle: "Carenzjaren | Gezondheidsverklaring, Premies & Dekkingen, Alles Van A-Z"
 ---
 

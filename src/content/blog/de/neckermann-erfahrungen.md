@@ -5,6 +5,7 @@ pubDate: 2022-11-08
 updatedDate: 2022-11-08
 author: "Jasper Jansen"
 categories: ["Sterbegeldversicherung"]
+image: "/wp-content/uploads/2022/03/neckermann-logo.jpg"
 metaTitle: "Neckermann Sterbegeldversicherung - Uitvaartpolis-online.com"
 ---
 

@@ -5,6 +5,7 @@ pubDate: 2019-07-19
 updatedDate: 2022-04-20
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2020/04/uitvaartfotografie-afbeelding.jpg"
 metaTitle: "Uitvaartfotografie | Bekijk Tips, Mogelijkheden & Algemene Informatie!"
 ---
 

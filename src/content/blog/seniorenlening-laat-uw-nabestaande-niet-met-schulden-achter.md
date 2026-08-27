@@ -5,6 +5,7 @@ pubDate: 2024-06-19
 updatedDate: 2024-06-19
 author: "Jasper Jansen"
 categories: ["Blog"]
+image: "/wp-content/uploads/2023/12/pexels-anna-nekrashevich-6801649.jpg"
 metaTitle: "Seniorenlening? Laat uw nabestaande niet met schulden achter (seniorenlening, hoe werkt + de verzekering) - Uitvaartpolis-online.com"
 ---
 

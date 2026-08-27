@@ -5,6 +5,7 @@ pubDate: 2019-10-19
 updatedDate: 2022-04-14
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2020/06/rouwbus-afbeelding-scaled.jpg"
 metaTitle: "Rouwbus | Wat Houdt Het Precies In & Bekijk De Kosten | Profiteer Direct!"
 ---
 

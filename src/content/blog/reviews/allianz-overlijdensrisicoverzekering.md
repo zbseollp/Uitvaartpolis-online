@@ -5,6 +5,7 @@ pubDate: 2022-06-23
 updatedDate: 2022-06-23
 author: "Jasper Jansen"
 categories: ["Reviews"]
+image: "/wp-content/uploads/2022/03/Allianz-Overlijdensrisicoverzekering.jpg"
 metaTitle: "Allianz overlijdensrisicoverzekering Afsluiten | Premies, Dekkingen & Meer!"
 ---
 

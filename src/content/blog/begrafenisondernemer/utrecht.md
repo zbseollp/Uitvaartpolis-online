@@ -5,6 +5,7 @@ pubDate: 2021-05-09
 updatedDate: 2022-07-01
 author: "Jasper Jansen"
 categories: ["Begrafenisondernemer"]
+image: "/wp-content/uploads/2019/08/utrecht-uitvaartondernemer.jpg"
 metaTitle: "Begrafenisondernemer Utrecht Nodig? | Vergelijk Gratis 5 Offertes!"
 compare: true
 ---

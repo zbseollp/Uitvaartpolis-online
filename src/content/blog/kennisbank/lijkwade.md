@@ -5,6 +5,7 @@ pubDate: 2021-02-11
 updatedDate: 2025-07-11
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2019/08/lijkwade.jpg"
 metaTitle: "Wat Is Een Lijkwade Precies? Lees Alles In Onze Gids Uit 2026"
 ---
 

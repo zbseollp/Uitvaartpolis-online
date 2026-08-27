@@ -5,6 +5,7 @@ pubDate: 2020-01-10
 updatedDate: 2022-04-13
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2018/08/repatriering-featured.jpg"
 metaTitle: "Repatriëring, Wat Is Het? Vergeet Het Niet | Waarom? Kom er NU Achter!"
 ---
 

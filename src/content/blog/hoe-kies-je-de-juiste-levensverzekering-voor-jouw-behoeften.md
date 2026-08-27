@@ -4,6 +4,7 @@ description: "Het kiezen van de juiste levensverzekering is een essentiële stap
 pubDate: 2024-03-21
 author: "Jasper Jansen"
 categories: ["Blog"]
+image: "/wp-content/uploads/2023/12/pexels-polina-tankilevitch-5585791-1.jpg"
 metaTitle: "Hoe kies je de juiste levensverzekering voor jouw behoeften - Uitvaartpolis-online.com"
 ---
 

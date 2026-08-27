@@ -5,6 +5,7 @@ pubDate: 2019-03-10
 updatedDate: 2022-04-14
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2018/10/premievrije-waarde-featured-image.jpg"
 metaTitle: "Wat Is De Premievrije Waarde Bij Overlijdensrisicoverzekering in 2026?"
 ---
 

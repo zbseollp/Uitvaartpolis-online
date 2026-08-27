@@ -5,6 +5,7 @@ pubDate: 2021-01-01
 updatedDate: 2022-04-20
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2020/05/eenzaamheid-na-overlijden-partner-afbeelding-scaled.jpg"
 metaTitle: "Eenzaamheid Na Overlijden Van Een Partner | Rouwen & Tips"
 ---
 

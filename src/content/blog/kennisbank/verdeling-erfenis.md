@@ -5,6 +5,7 @@ pubDate: 2019-04-21
 updatedDate: 2022-04-19
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2018/08/erfenis.jpg"
 metaTitle: "Verdeling Van De Erfenis? Hoe werkt het? | Lees Het NU Hier!"
 ---
 

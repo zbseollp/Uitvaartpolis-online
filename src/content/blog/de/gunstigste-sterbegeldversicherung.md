@@ -5,6 +5,7 @@ pubDate: 2022-01-06
 updatedDate: 2022-06-27
 author: "Jasper Jansen"
 categories: ["Sterbegeldversicherung"]
+image: "/wp-content/uploads/2018/01/goedkoopste-uitvaartverzekering-2.jpg"
 metaTitle: "Günstigste Sterbegeldversicherung (2022) | Uitvaartpolis-online.de"
 ---
 

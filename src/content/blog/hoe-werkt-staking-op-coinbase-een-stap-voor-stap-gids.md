@@ -5,6 +5,7 @@ pubDate: 2024-06-12
 updatedDate: 2024-06-12
 author: "Jasper Jansen"
 categories: ["Blog"]
+image: "/wp-content/uploads/2024/03/hoe-koop-ik-cryptomunten.jpg"
 metaTitle: "Hoe werkt staking op Coinbase: een stap-voor-stap gids - Uitvaartpolis-online.com"
 ---
 

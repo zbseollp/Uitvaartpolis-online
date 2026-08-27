@@ -5,6 +5,7 @@ pubDate: 2021-02-12
 updatedDate: 2022-06-28
 author: "Jasper Jansen"
 categories: ["Sterbegeldversicherung"]
+image: "/wp-content/uploads/2022/02/sterbegeldversicherung-betreuer.jpg"
 metaTitle: "Sterbegeldversicherung Betreuer (2022) | Uitvaartpolis-online.de"
 ---
 

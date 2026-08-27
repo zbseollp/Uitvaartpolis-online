@@ -5,6 +5,7 @@ pubDate: 2024-04-09
 updatedDate: 2024-04-09
 author: "Jasper Jansen"
 categories: ["Blog"]
+image: "/wp-content/uploads/2023/12/pexels-polina-tankilevitch-5585791-1.jpg"
 metaTitle: "Uitvaartpolis: een investering in vrede - Uitvaartpolis-online.com"
 ---
 

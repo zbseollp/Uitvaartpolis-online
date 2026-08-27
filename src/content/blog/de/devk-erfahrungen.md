@@ -5,6 +5,7 @@ pubDate: 2023-08-28
 updatedDate: 2023-08-28
 author: "Jasper Jansen"
 categories: ["Sterbegeldversicherung"]
+image: "/wp-content/uploads/2022/03/devk-logo.jpg"
 metaTitle: "Sterbegeldversicherung DEVK (2022) | Uitvaartpolis-online.de"
 ---
 

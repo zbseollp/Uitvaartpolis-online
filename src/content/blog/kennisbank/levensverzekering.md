@@ -5,6 +5,7 @@ pubDate: 2020-12-11
 updatedDate: 2022-04-15
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2018/10/levensverzekeringen-featured-image.jpg"
 metaTitle: "Levensverzekering Afsluiten in 2026? Lees Er Hier Alles Over & Bespaar!"
 ---
 

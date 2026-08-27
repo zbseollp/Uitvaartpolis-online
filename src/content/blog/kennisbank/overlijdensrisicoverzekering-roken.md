@@ -5,6 +5,7 @@ pubDate: 2019-06-17
 updatedDate: 2025-07-10
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2019/08/overlijdensrisicoverzekering-roken-afbeelding.jpg"
 metaTitle: "Overlijdensrisicoverzekering Roken & De Gevolgen in 2026 | Alles van A-Z!"
 ---
 

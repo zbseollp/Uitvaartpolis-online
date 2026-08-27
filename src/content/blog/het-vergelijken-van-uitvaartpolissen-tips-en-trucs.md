@@ -4,6 +4,7 @@ description: "Het kiezen van een uitvaartpolis is een belangrijke beslissing die
 pubDate: 2024-05-05
 author: "Jasper Jansen"
 categories: ["Blog"]
+image: "/wp-content/uploads/2024/04/7e13cff1-d461-4e93-ae5c-fc7d0e7709d6.jpg"
 metaTitle: "Het vergelijken van uitvaartpolissen: tips en trucs - Uitvaartpolis-online.com"
 ---
 

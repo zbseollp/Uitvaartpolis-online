@@ -5,6 +5,7 @@ pubDate: 2021-03-05
 updatedDate: 2023-02-27
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2018/08/medische-acceptatie-begrafenisverzekering.jpg"
 metaTitle: "Hoe Werkt De Medische Acceptatie Bij Begrafenisverzekering In 2026?"
 ---
 

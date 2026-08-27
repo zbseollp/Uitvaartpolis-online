@@ -5,6 +5,7 @@ pubDate: 2018-12-10
 updatedDate: 2022-04-13
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2020/06/wat-zeg-als-iemand-overleden-is-afbeelding.jpg"
 metaTitle: "Wat Zeg Je Als Iemand Overleden Is? | Bekijk Snel Handige Tips!"
 ---
 

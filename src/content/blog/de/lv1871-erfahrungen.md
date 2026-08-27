@@ -5,6 +5,7 @@ pubDate: 2023-08-31
 updatedDate: 2023-08-31
 author: "Jasper Jansen"
 categories: ["Sterbegeldversicherung"]
+image: "/wp-content/uploads/2022/03/lv-1871-logo.jpg"
 metaTitle: "Sterbegeldversicherung LV1871 (2022) | Uitvaartpolis-online.de"
 ---
 

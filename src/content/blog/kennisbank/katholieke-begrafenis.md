@@ -5,6 +5,7 @@ pubDate: 2019-12-25
 updatedDate: 2025-07-10
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2020/05/katholieke-begrafenis-afbeelding.jpg"
 metaTitle: "Katholieke Begrafenis: Mogelijkheden, Rituelen & Informatie!"
 ---
 

@@ -5,6 +5,7 @@ pubDate: 2021-01-07
 updatedDate: 2022-07-01
 author: "Jasper Jansen"
 categories: ["Begrafenisondernemer"]
+image: "/wp-content/uploads/2019/08/arnhem-begrafenisondernemer.png"
 metaTitle: "Begrafenisondernemer Arnhem Nodig? | Vergelijk Gratis 5 Offertes!"
 compare: true
 ---

@@ -5,6 +5,7 @@ pubDate: 2022-09-14
 updatedDate: 2025-07-11
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2018/04/cremeren-bij-de-uitvaart.jpg"
 metaTitle: "Wat Kost Een Crematie In 2026? | Bereken de kosten direct in 3 minuten"
 compare: true
 ---

@@ -5,6 +5,7 @@ pubDate: 2021-05-26
 updatedDate: 2022-06-28
 author: "Jasper Jansen"
 categories: ["Sterbegeldversicherung"]
+image: "/wp-content/uploads/2022/02/abtretung-sterbegeldversicherung-an-bestatter.jpg"
 metaTitle: "Abtretung Sterbegeldversicherung An Bestatter (2022) | Uitvaartpolis-online.de"
 ---
 

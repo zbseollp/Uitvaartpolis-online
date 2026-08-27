@@ -5,6 +5,7 @@ pubDate: 2022-11-23
 updatedDate: 2022-11-23
 author: "Jasper Jansen"
 categories: ["Blog"]
+image: "/wp-content/uploads/2022/11/funeral-casket-and-flowers-next-to-hearse-2022-11-02-03-43-23-utc-scaled.jpg"
 metaTitle: "Juiste uitvaartverzekering kiezen doe je zo - Uitvaartpolis-online.com"
 ---
 

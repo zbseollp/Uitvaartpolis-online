@@ -5,6 +5,7 @@ pubDate: 2023-11-14
 updatedDate: 2023-11-14
 author: "Jasper Jansen"
 categories: ["Blog"]
+image: "/wp-content/uploads/2023/10/coffin-at-funeral-in-orthodox-church-2022-12-16-09-48-33-utc-scaled.jpg"
 metaTitle: "Wel of geen uitvaartverzekering? Welke beslissing moet je nemen? - Uitvaartpolis-online.com"
 ---
 

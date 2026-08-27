@@ -5,6 +5,7 @@ pubDate: 2022-06-28
 updatedDate: 2022-06-28
 author: "Jasper Jansen"
 categories: ["Reviews"]
+image: "/wp-content/uploads/2022/03/monuta-logo.jpg"
 metaTitle: "Uitvaart Van Monuta 2026 | Diensten Review + Uitvaartverzekering Review"
 ---
 

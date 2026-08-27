@@ -5,6 +5,7 @@ pubDate: 2024-03-21
 updatedDate: 2024-03-21
 author: "Jasper Jansen"
 categories: ["Blog"]
+image: "/wp-content/uploads/2024/03/spotify.jpg"
 metaTitle: "De opkomst van muziekstreaming in Duitsland - Uitvaartpolis-online.com"
 ---
 

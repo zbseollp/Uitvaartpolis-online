@@ -4,6 +4,7 @@ description: "Een grafsteenverzekering of grafmonumentenverzekering wordt aangeb
 pubDate: 2022-09-08
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2022/09/grafsteenverzekering.jpg"
 metaTitle: "Grafsteenverzekering - Uitvaartpolis-online.com"
 ---
 

@@ -5,6 +5,7 @@ pubDate: 2022-06-23
 updatedDate: 2022-06-23
 author: "Jasper Jansen"
 categories: ["Reviews"]
+image: "/wp-content/uploads/2022/03/aegon-logo.jpg"
 metaTitle: "AEGON Overlijdensrisicoverzekering Review 2026 | Alles van A-Z!"
 ---
 

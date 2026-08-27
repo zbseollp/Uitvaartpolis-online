@@ -5,6 +5,7 @@ pubDate: 2021-01-19
 updatedDate: 2022-04-20
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2020/07/euthanasieverklaring.jpg"
 metaTitle: "Euthanasieverklaring | Informatie, Aanvragen, Opstellen & Meer"
 ---
 

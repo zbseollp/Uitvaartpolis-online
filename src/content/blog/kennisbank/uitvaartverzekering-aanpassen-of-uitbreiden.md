@@ -5,6 +5,7 @@ pubDate: 2019-09-01
 updatedDate: 2022-04-19
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2018/08/uitvaartverzekering-uitbreiden-aanpassen.jpg"
 metaTitle: "Uitvaartverzekering Uitbreiden of Aanpassen In 2026 | Hoe Werkt Het?"
 ---
 

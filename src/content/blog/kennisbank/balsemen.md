@@ -5,6 +5,7 @@ pubDate: 2020-06-04
 updatedDate: 2025-07-11
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2019/08/balsemen-afbeelding.jpg"
 metaTitle: "Wat Is Balsemen Precies? Lees Alles In Onze Gids Uit 2026"
 ---
 

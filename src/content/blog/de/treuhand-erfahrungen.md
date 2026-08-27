@@ -5,6 +5,7 @@ pubDate: 2022-07-06
 updatedDate: 2022-07-06
 author: "Jasper Jansen"
 categories: ["Sterbegeldversicherung"]
+image: "/wp-content/uploads/2022/05/Nieuw-project-17.jpg"
 metaTitle: "Sterbegeldversicherung Treuhand (2022) | Uitvaartpolis-online.de"
 ---
 

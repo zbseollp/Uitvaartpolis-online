@@ -4,6 +4,7 @@ description: "De dood is een onvermijdelijk onderdeel van het leven, en hoewel h
 pubDate: 2023-12-27
 author: "Jasper Jansen"
 categories: ["Blog"]
+image: "/wp-content/uploads/2021/12/22aa2-unsmushed.jpg"
 metaTitle: "De kosten van een uitvaart: wat dekt een uitvaartverzekering? - Uitvaartpolis-online.com"
 ---
 

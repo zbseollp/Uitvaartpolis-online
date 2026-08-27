@@ -5,6 +5,7 @@ pubDate: 2023-09-06
 updatedDate: 2023-09-06
 author: "Jasper Jansen"
 categories: ["Sterbegeldversicherung"]
+image: "/wp-content/uploads/2022/03/signal-iduna-logo.jpg"
 metaTitle: "Sterbegeldversicherung Signal Iduna (2022) | Uitvaartpolis-online.de"
 ---
 

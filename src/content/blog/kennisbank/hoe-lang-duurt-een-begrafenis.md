@@ -5,6 +5,7 @@ pubDate: 2021-05-22
 updatedDate: 2022-08-25
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2019/08/hoe-lang-duurt-een-begrafenis.jpg"
 metaTitle: "Hoe Lang Duurt Een Begrafenis In Nederland? Lees Het In Onze Gids"
 ---
 

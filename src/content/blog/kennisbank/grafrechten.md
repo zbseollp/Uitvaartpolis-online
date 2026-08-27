@@ -5,6 +5,7 @@ pubDate: 2019-02-18
 updatedDate: 2022-04-12
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2018/09/grafsteen-rechten-begraafplaats.jpg"
 metaTitle: "Wat Zijn Grafrechten? Lees Alles Over Dit Belangrijke Onderwerp In 2026"
 ---
 

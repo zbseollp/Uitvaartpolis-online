@@ -5,6 +5,7 @@ pubDate: 2020-10-25
 updatedDate: 2022-04-15
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2020/08/Uitkering-overlijdensrisicoverzekering.jpg"
 metaTitle: "Uitkering Overlijdensrisicoverzekering | Verschil Bruto & Netto | Lees Nu!"
 ---
 

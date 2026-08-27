@@ -5,6 +5,7 @@ pubDate: 2021-10-06
 updatedDate: 2022-06-27
 author: "Jasper Jansen"
 categories: ["Sterbegeldversicherung"]
+image: "/wp-content/uploads/2018/08/rouwstoet.jpg"
 metaTitle: "Transport bei einer Beerdigung (2022) | Uitvaartpolis-online.de"
 ---
 

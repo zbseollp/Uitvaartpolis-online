@@ -5,6 +5,7 @@ pubDate: 2021-03-04
 updatedDate: 2022-08-25
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2020/08/bang-voor-de-dood.jpg"
 metaTitle: "Bang Voor De Dood | Overwinnen, Symptomen & Tips"
 ---
 

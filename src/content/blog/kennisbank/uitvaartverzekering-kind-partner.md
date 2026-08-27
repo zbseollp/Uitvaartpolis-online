@@ -5,6 +5,7 @@ pubDate: 2019-01-27
 updatedDate: 2023-01-17
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2019/07/uitvaartverzekering-kind.jpg"
 metaTitle: "Uitvaartverzekering Kind Afsluiten? | Alles Over Gezin, Kinderen & Partner"
 ---
 

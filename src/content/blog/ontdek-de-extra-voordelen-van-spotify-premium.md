@@ -5,6 +5,7 @@ pubDate: 2024-02-18
 updatedDate: 2024-02-20
 author: "Jasper Jansen"
 categories: ["Blog"]
+image: "/wp-content/uploads/2024/02/tiktok.jpg"
 metaTitle: "TikTok bewerkingshacks: maak boeiende en creatieve video's - Uitvaartpolis-online.com"
 ---
 

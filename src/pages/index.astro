@@ -3,54 +3,41 @@ import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import CompareWidget from '../components/CompareWidget.astro';
 import PostGrid from '../components/PostGrid.astro';
+import Stars from '../components/Stars.astro';
 
 const all = await getCollection('blog');
 const byDate = (a: any, b: any) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf();
+const withImage = (p: any) => Boolean(p.data.image);
+
 const blogPosts = all.filter((p) => (p.data.categories ?? []).includes('Blog')).sort(byDate).slice(0, 3);
-const kennisbank = all.filter((p) => p.id.startsWith('kennisbank/')).sort(byDate).slice(0, 6);
+const kennisbank = all
+  .filter((p) => p.id.startsWith('kennisbank/'))
+  .sort((a, b) => Number(withImage(b)) - Number(withImage(a)) || byDate(a, b))
+  .slice(0, 6);
 const steden = all
   .filter((p) => p.id.startsWith('begrafenisondernemer/'))
   .sort((a, b) => a.data.title.localeCompare(b.data.title, 'nl'));
+const reviews = all.filter((p) => p.id.startsWith('reviews/'));
 
 /* Cijfers en aanbieders 1-op-1 overgenomen van de bronsite (premie 18-jarige,
-   verzekerd bedrag EUR 9.000,-, niet-roker, geen partner/kinderen). */
+   verzekerd bedrag EUR 9.000,-, niet-roker, zonder partner of kinderen). */
 const top = [
-  {
-    naam: 'DELA',
-    logo: '/wp-content/uploads/2022/03/dela-logo.jpg',
-    pakket: 'In diensten Plus',
-    premie: '7,34',
-    score: '3,8',
-    reviews: 21,
-    kinderen: 'Nee (wel korting voor kinderen)',
-    href: '/dela-offer/',
-    review: '/reviews/dela-uitvaartverzekering/',
-    tag: 'Meest gekozen',
-  },
-  {
-    naam: 'Monuta',
-    logo: '/wp-content/uploads/2022/03/monuta-logo.jpg',
-    pakket: 'Plus',
-    premie: '6,74',
-    score: '4,1',
-    reviews: 14,
-    kinderen: 'Gratis tot 18 jaar',
-    href: '/monuta-offer/',
-    review: '/reviews/monuta-uitvaartverzekering/',
-    tag: 'Laagste premie',
-  },
-  {
-    naam: 'DELA',
-    logo: '/wp-content/uploads/2022/03/dela-logo.jpg',
-    pakket: 'In geld',
-    premie: '9,42',
-    score: '3,8',
-    reviews: 21,
-    kinderen: 'Nee (wel korting voor kinderen)',
-    href: '/dela-offer/',
-    review: '/reviews/dela-uitvaartverzekering/',
-    tag: 'Vrij besteedbaar',
-  },
+  { naam: 'DELA', logo: '/wp-content/uploads/2022/03/dela-logo.jpg', pakket: 'In diensten Plus', premie: '7,34', score: 3.8, reviews: 21, href: '/dela-offer/' },
+  { naam: 'Monuta', logo: '/wp-content/uploads/2022/03/monuta-logo.jpg', pakket: 'Plus', premie: '6,74', score: 4.1, reviews: 14, href: '/monuta-offer/' },
+  { naam: 'DELA', logo: '/wp-content/uploads/2022/03/dela-logo.jpg', pakket: 'In geld', premie: '9,42', score: 3.8, reviews: 21, href: '/dela-offer/' },
+];
+
+const trustLogos = [
+  { src: '/wp-content/uploads/2022/03/dela-logo.jpg', alt: 'DELA' },
+  { src: '/wp-content/uploads/2022/03/monuta-logo.jpg', alt: 'Monuta' },
+  { src: '/wp-content/uploads/2022/03/ardanta-logo-post-featured.jpg', alt: 'Ardanta' },
+  { src: '/wp-content/uploads/2022/03/yarden-logo.jpg', alt: 'Yarden' },
+];
+
+const stappen = [
+  { t: 'Vul je gegevens in', p: 'Geboortedatum en gewenst verzekerd bedrag. Meer heb je niet nodig en je laat geen persoonsgegevens achter.' },
+  { t: 'Vergelijk alle polissen', p: 'Premie, dekking, voorwaarden en kinderdekking van elke verzekeraar overzichtelijk naast elkaar.' },
+  { t: 'Sluit af bij de verzekeraar', p: 'Je regelt het rechtstreeks en veilig op de website van de verzekeraar zelf. Wij zitten er niet tussen.' },
 ];
 ---
 
@@ -63,7 +50,7 @@ const top = [
       <div>
         <h1>Uitvaartverzekering vergelijken &amp; in 3 minuten besparen</h1>
         <p class="lead">
-          Altijd 100% onafhankelijk de beste uitvaartverzekering vergelijken, volledige prijzen zonder kleine
+          Altijd 100% onafhankelijk de beste uitvaartverzekering vergelijken. Volledige prijzen zonder kleine
           lettertjes en direct maandelijks geld besparen op je premie.
         </p>
         <ul class="usp">
@@ -71,35 +58,52 @@ const top = [
           <li>Zonder je gegevens achter te laten</li>
           <li>100% onafhankelijk</li>
         </ul>
-        <a class="btn" href="#vergelijken">Vergelijk verzekeringen</a>
+        <div class="cta-row">
+          <a class="btn" href="#vergelijken">Vergelijk verzekeringen</a>
+          <a class="btn btn-ghost no-arrow" href="/kennisbank/" style="color:#dbe7ee!important;border-color:rgba(255,255,255,.28)">
+            Naar de kennisbank
+          </a>
+        </div>
       </div>
 
       <div class="rank-card">
-        <h2>Meest gekozen pakketten &mdash; premie 18-jarige</h2>
+        <header>
+          <h2>Meest gekozen pakketten</h2>
+          <p>Premie voor een 18-jarige, verzekerd bedrag &euro; 9.000,-</p>
+        </header>
         {top.map((t, i) => (
           <div class="rank-row">
             <span class="num">{i + 1}</span>
             <span class="brand">
-              <img src={t.logo} alt={`${t.naam} logo`} />
-              <span class="meta">{t.pakket} &middot; {t.score}/5 ({t.reviews} reviews)</span>
+              <img src={t.logo} alt={`${t.naam} logo`} loading="lazy" />
+              <span class="meta">
+                {t.pakket} &middot; <Stars score={t.score} label={`${t.score} van 5`} /> {t.score.toString().replace('.', ',')} ({t.reviews})
+              </span>
             </span>
             <span>
               <span class="price">&euro; {t.premie}</span>
-              <span class="meta" style="display:block;text-align:right">p/mnd</span>
+              <span class="per">per maand</span>
             </span>
           </div>
         ))}
-        <div style="padding:14px 20px;background:var(--paper);border-top:1px solid var(--line)">
-          <a class="btn btn-blue" href="#vergelijken" style="width:100%;text-align:center">Bekijk alle aanbieders</a>
-          <p style="margin:10px 0 0;font-size:.76rem;color:var(--slate-3)">
-            Premies berekend voor een niet-rokende 18-jarige, verzekerd bedrag &euro; 9.000,-, zonder partner of kinderen.
-          </p>
-        </div>
+        <footer>
+          <a class="btn btn-blue" href="#vergelijken">Bekijk alle aanbieders</a>
+          <p>Berekend voor een niet-rokende 18-jarige zonder partner of kinderen.</p>
+        </footer>
       </div>
     </div>
   </section>
 
-  <section class="tint">
+  <section class="tight">
+    <div class="wrap">
+      <div class="trust">
+        <span class="label">Wij vergelijken onder andere</span>
+        {trustLogos.map((l) => <img src={l.src} alt={l.alt} loading="lazy" />)}
+      </div>
+    </div>
+  </section>
+
+  <section class="tint" id="vergelijken-sectie">
     <div class="wrap">
       <CompareWidget
         title="Uitvaartverzekering vergelijken"
@@ -110,7 +114,24 @@ const top = [
 
   <section>
     <div class="wrap">
-      <div class="grid grid-2" style="gap:44px;align-items:start">
+      <div class="section-head">
+        <h2 class="section-title">Zo werkt het</h2>
+        <p class="section-sub">Van vergelijken tot afsluiten in drie stappen &mdash; zonder verkooppraat.</p>
+      </div>
+      <ol class="steps">
+        {stappen.map((s) => (
+          <li>
+            <h3>{s.t}</h3>
+            <p>{s.p}</p>
+          </li>
+        ))}
+      </ol>
+    </div>
+  </section>
+
+  <section class="tint">
+    <div class="wrap">
+      <div class="grid grid-2" style="gap:56px;align-items:start">
         <div class="prose" style="max-width:none">
           <h2 id="wat-is-een-uitvaartverzekering" style="margin-top:0">Wat is een uitvaartverzekering?</h2>
           <p>
@@ -132,16 +153,25 @@ const top = [
           </p>
         </div>
 
-        <div class="grid" style="gap:16px">
-          <div class="card">
+        <div class="grid" style="gap:18px">
+          <div class="tile">
+            <span class="ico" aria-hidden="true">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 6h18M3 12h18M3 18h12"/></svg>
+            </span>
             <h3>Betrouwbaar vergelijken</h3>
             <p>Verschillende verzekeraars, polissen en premies op één plek voor een eerlijk en overzichtelijk resultaat.</p>
           </div>
-          <div class="card">
+          <div class="tile">
+            <span class="ico" aria-hidden="true">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 1v22M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg>
+            </span>
             <h3>Meer voor jezelf en thuis</h3>
             <p>Betaal minder premie voor je uitvaartverzekering en houd meer over voor de leuke dingen in het leven.</p>
           </div>
-          <div class="card">
+          <div class="tile">
+            <span class="ico" aria-hidden="true">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+            </span>
             <h3>100% veilig en onafhankelijk</h3>
             <p>Direct vergelijken zonder gegevens op te geven. Je sluit altijd veilig af op de website van de verzekeraar.</p>
           </div>
@@ -150,22 +180,49 @@ const top = [
     </div>
   </section>
 
-  <section class="tint">
+  <section>
     <div class="wrap">
-      <h2 class="section-title">Meest gelezen uit de kennisbank</h2>
-      <p class="section-sub">Alles wat je moet weten over uitvaarten, polissen en kosten &mdash; in begrijpelijke taal.</p>
+      <div class="section-head-row">
+        <div class="section-head">
+          <h2 class="section-title">Meest gelezen uit de kennisbank</h2>
+          <p class="section-sub">Alles over uitvaarten, polissen en kosten &mdash; in begrijpelijke taal.</p>
+        </div>
+        <a class="btn btn-ghost" href="/kennisbank/">Naar de kennisbank</a>
+      </div>
       <PostGrid posts={kennisbank} kicker={false} showDate={false} />
-      <p style="margin-top:24px"><a class="btn btn-ghost" href="/kennisbank/">Naar de kennisbank</a></p>
     </div>
   </section>
+
+  {reviews.length > 0 && (
+    <section class="tint">
+      <div class="wrap">
+        <div class="section-head-row">
+          <div class="section-head">
+            <h2 class="section-title">{reviews.length} verzekeraars beoordeeld</h2>
+            <p class="section-sub">Premies, dekking, voorwaarden en klantervaringen per aanbieder.</p>
+          </div>
+          <a class="btn btn-ghost" href="/reviews/">Alle reviews</a>
+        </div>
+        <div class="pills">
+          {reviews.slice(0, 22).map((r) => (
+            <a href={`/${r.id}/`}>{r.id.split('/').pop()?.replace(/-/g, ' ')}</a>
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
 
   {blogPosts.length > 0 && (
     <section>
       <div class="wrap">
-        <h2 class="section-title">Laatste artikelen</h2>
-        <p class="section-sub">Nieuws en achtergrond rondom uitvaarten en uitvaartverzekeringen.</p>
+        <div class="section-head-row">
+          <div class="section-head">
+            <h2 class="section-title">Laatste artikelen</h2>
+            <p class="section-sub">Nieuws en achtergrond rondom uitvaarten en uitvaartverzekeringen.</p>
+          </div>
+          <a class="btn btn-ghost" href="/blog/">Alle artikelen</a>
+        </div>
         <PostGrid posts={blogPosts} kicker={false} />
-        <p style="margin-top:24px"><a class="btn btn-ghost" href="/blog/">Alle artikelen</a></p>
       </div>
     </section>
   )}
@@ -173,18 +230,15 @@ const top = [
   {steden.length > 0 && (
     <section class="tint">
       <div class="wrap">
-        <h2 class="section-title">Begrafenisondernemer in jouw stad</h2>
-        <p class="section-sub">Vergelijk uitvaartondernemers en tarieven per gemeente.</p>
-        <p style="display:flex;flex-wrap:wrap;gap:8px 10px">
+        <div class="section-head">
+          <h2 class="section-title">Begrafenisondernemer in jouw stad</h2>
+          <p class="section-sub">Vergelijk uitvaartondernemers en tarieven per gemeente.</p>
+        </div>
+        <div class="pills">
           {steden.map((s) => (
-            <a
-              href={`/${s.id}/`}
-              style="display:inline-block;background:#fff;border:1px solid var(--line);border-radius:3px;padding:7px 13px;font-size:.88rem;font-weight:700;color:var(--slate)"
-            >
-              {s.id.split('/').pop()?.replace(/-/g, ' ')}
-            </a>
+            <a href={`/${s.id}/`}>{s.id.split('/').pop()?.replace(/-/g, ' ')}</a>
           ))}
-        </p>
+        </div>
       </div>
     </section>
   )}

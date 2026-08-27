@@ -5,6 +5,7 @@ pubDate: 2021-09-20
 updatedDate: 2022-06-27
 author: "Jasper Jansen"
 categories: ["Sterbegeldversicherung"]
+image: "/wp-content/uploads/2018/02/wat-kost-een-uitvaart.jpg"
 metaTitle: "Berechnen Sie die Kosten einer Bestattung (2022) | Uitvaartpolis-online.de"
 ---
 

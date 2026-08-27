@@ -5,6 +5,7 @@ pubDate: 2020-09-23
 updatedDate: 2022-07-01
 author: "Jasper Jansen"
 categories: ["Begrafenisondernemer"]
+image: "/wp-content/uploads/2019/08/eindhoven-begrafenisondernemer.jpg"
 metaTitle: "Begrafenisondernemer Eindhoven Nodig? | Vergelijk Gratis 5 Offertes!"
 compare: true
 ---

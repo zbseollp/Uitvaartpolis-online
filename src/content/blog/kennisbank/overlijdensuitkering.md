@@ -5,6 +5,7 @@ pubDate: 2021-06-10
 updatedDate: 2022-04-21
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2019/08/overlijdensuitkering-afbeelding.jpg"
 metaTitle: "Overlijdensuitkering In 2026 | Jouw Nabestaanden Gedekt Middels ANW?"
 ---
 

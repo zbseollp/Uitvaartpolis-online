@@ -5,6 +5,7 @@ pubDate: 2020-11-19
 updatedDate: 2022-07-01
 author: "Jasper Jansen"
 categories: ["Begrafenisondernemer"]
+image: "/wp-content/uploads/2019/08/begrafenisondernemer-apeldoorn.jpg"
 metaTitle: "Begrafenisondernemer Apeldoorn Nodig? | Vergelijk Gratis 5 Offertes!"
 compare: true
 ---

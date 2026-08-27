@@ -5,6 +5,7 @@ pubDate: 2019-11-03
 updatedDate: 2022-04-20
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2019/08/monuta-mensen-met-dementie-featured-image.jpg"
 metaTitle: "Monuta Steekt Extra Aandacht In Mensen Met Dementie | Lees Het Hier!"
 ---
 

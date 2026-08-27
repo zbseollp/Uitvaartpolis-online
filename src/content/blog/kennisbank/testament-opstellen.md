@@ -5,6 +5,7 @@ pubDate: 2020-09-11
 updatedDate: 2023-01-17
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2019/08/testament-opstellen.jpg"
 metaTitle: "Hoe Kun Je Een Testament Opstellen? Lees Er Alles Over In Deze GIDS"
 ---
 

@@ -5,6 +5,7 @@ pubDate: 2021-03-02
 updatedDate: 2022-06-28
 author: "Jasper Jansen"
 categories: ["Sterbegeldversicherung"]
+image: "/wp-content/uploads/2020/03/islamitische-uitvaartverzekering.jpg"
 metaTitle: "Wie funktioniert die islamische Sterbegeldversicherung? (2022) | Uitvaartpolis-online.de"
 ---
 

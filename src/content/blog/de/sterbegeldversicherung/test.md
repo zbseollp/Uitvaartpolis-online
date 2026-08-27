@@ -5,6 +5,7 @@ pubDate: 2023-09-16
 updatedDate: 2023-09-17
 author: "Jasper Jansen"
 categories: ["Sterbegeldversicherung"]
+image: "/wp-content/uploads/2023/09/sterbegeldversicherung-testsieger.jpg"
 metaTitle: "Sterbeversicherung Test (2022) | Uitvaartpolis-online.de"
 ---
 

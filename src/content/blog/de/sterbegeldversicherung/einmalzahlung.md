@@ -5,6 +5,7 @@ pubDate: 2021-04-07
 updatedDate: 2022-06-28
 author: "Jasper Jansen"
 categories: ["Sterbegeldversicherung"]
+image: "/wp-content/uploads/2022/02/sterbegeldversicherung-einmalzahlung.jpg"
 metaTitle: "Sterbegeldversicherung Einmalzahlung (2022) | Uitvaartpolis-online.de"
 ---
 

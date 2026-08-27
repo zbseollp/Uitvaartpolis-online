@@ -5,6 +5,7 @@ pubDate: 2020-11-04
 updatedDate: 2022-04-19
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2018/08/grafsteen-na-je-begrafenis.jpg"
 metaTitle: "Grafsteen uitkiezen voor na de begrafenis - Alles van A-Z"
 ---
 

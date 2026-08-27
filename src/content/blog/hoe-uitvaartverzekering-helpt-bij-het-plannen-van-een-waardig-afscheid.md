@@ -4,6 +4,7 @@ description: "Een uitvaartverzekering is meer dan alleen een financiële regelin
 pubDate: 2023-12-22
 author: "Jasper Jansen"
 categories: ["Blog"]
+image: "/wp-content/uploads/2023/12/pexels-polina-tankilevitch-5585791-1.jpg"
 metaTitle: "Hoe uitvaartverzekering helpt bij het plannen van een waardig afscheid - Uitvaartpolis-online.com"
 ---
 

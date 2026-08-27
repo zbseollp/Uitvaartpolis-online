@@ -5,6 +5,7 @@ pubDate: 2023-02-14
 updatedDate: 2023-02-14
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2023/02/chinese-uitvaart.jpg"
 metaTitle: "Chinese begrafenis: gebruiken & rituelen - Uitvaartpolis-online.com"
 ---
 

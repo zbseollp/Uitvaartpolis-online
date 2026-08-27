@@ -5,6 +5,7 @@ pubDate: 2021-06-23
 updatedDate: 2022-04-15
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2020/07/hypotheek-bij-overlijden-afbeelding.jpg"
 metaTitle: "Hypotheek Bij Overlijden | Lees Essentiële Informatie & Ben Voorbereid!"
 ---
 

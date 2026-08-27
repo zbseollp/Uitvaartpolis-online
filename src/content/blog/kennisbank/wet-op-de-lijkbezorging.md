@@ -5,6 +5,7 @@ pubDate: 2021-05-18
 updatedDate: 2022-06-06
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2020/07/Wet-op-de-lijkbezorging.jpg"
 metaTitle: "Wet Op De Lijkbezorging | Informatie, Wetgeving, Wat Houdt Het In?"
 ---
 

@@ -5,6 +5,7 @@ pubDate: 2021-09-08
 updatedDate: 2022-06-28
 author: "Jasper Jansen"
 categories: ["Sterbegeldversicherung"]
+image: "/wp-content/uploads/2018/07/euthanasie-en-begrafenisverzekering.jpg"
 metaTitle: "Wie funktioniert die Sterbegeldversicherung bei Euthanasie? (2022) | Uitvaartpolis-online.de"
 ---
 

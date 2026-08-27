@@ -5,6 +5,7 @@ pubDate: 2022-11-08
 updatedDate: 2022-11-10
 author: "Jasper Jansen"
 categories: ["Sterbegeldversicherung"]
+image: "/wp-content/uploads/2022/11/sterbegeldversicherung-sinnvoll.jpg"
 metaTitle: "Sterbegeldversicherung sinnvoll? - Uitvaartpolis-online.com"
 ---
 

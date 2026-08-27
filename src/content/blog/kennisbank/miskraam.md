@@ -4,6 +4,7 @@ description: "Een miskraam is een ongelooflijk hartverscheurende gebeurtenis voo
 pubDate: 2023-01-16
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2023/01/miskraam-herkennen.jpg"
 metaTitle: "Miskraam: oorzaken, symptomen en verwerking - Uitvaartpolis-online.com"
 ---
 

@@ -5,6 +5,7 @@ pubDate: 2024-05-07
 updatedDate: 2024-05-07
 author: "Jasper Jansen"
 categories: ["Blog"]
+image: "/wp-content/uploads/2024/05/staking-bitvavo.jpg"
 metaTitle: "Coinbase Staking in Nederland: Wat Je Moet Weten - Uitvaartpolis-online.com"
 ---
 

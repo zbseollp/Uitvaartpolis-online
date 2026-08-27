@@ -5,6 +5,7 @@ pubDate: 2020-06-19
 updatedDate: 2022-04-09
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2019/08/rouwboeket-bestellen-afbeelding.jpg"
 metaTitle: "Rouwboeket Bestellen? Lees Eerst Onze Informatiegids! Bespaar Direct!"
 ---
 

@@ -4,6 +4,7 @@ description: "In het leven gebeuren er wel eens dingen die we van te voren niet 
 pubDate: 2023-01-23
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2023/01/uitvaartverzekering-scheiding.jpg"
 metaTitle: "Uitvaartverzekering na scheiding, waar moet je rekening mee houden? - Uitvaartpolis-online.com"
 ---
 

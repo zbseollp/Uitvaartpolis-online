@@ -5,6 +5,7 @@ pubDate: 2021-01-08
 updatedDate: 2022-08-25
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2018/08/rouwverwerking.jpg"
 metaTitle: "Rouwverwerking & Wat Je Kan Doen in de Rouwperiode | Lees Het Hier!"
 ---
 

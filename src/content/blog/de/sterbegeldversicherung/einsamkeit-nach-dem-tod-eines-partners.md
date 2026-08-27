@@ -5,6 +5,7 @@ pubDate: 2022-02-10
 updatedDate: 2022-06-27
 author: "Jasper Jansen"
 categories: ["Sterbegeldversicherung"]
+image: "/wp-content/uploads/2022/02/einsamkeit-nach-dem-tod-des-partners-bild-skaliert.jpg"
 metaTitle: "Einsamkeit nach dem Tod eines Partners | Lesen Sie hier einige hilfreiche Tipps! (2022) | Uitvaartpolis-online.de"
 ---
 

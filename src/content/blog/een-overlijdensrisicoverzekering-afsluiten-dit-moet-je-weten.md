@@ -5,6 +5,7 @@ pubDate: 2024-12-12
 updatedDate: 2024-12-12
 author: "Jasper Jansen"
 categories: ["Blog"]
+image: "/wp-content/uploads/2024/12/the-good-funeral-guide-G0NlVsTzMnM-unsplash.jpg"
 metaTitle: "Een overlijdensrisicoverzekering afsluiten: dit moet je weten - Uitvaartpolis-online.com"
 ---
 

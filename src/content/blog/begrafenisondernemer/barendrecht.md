@@ -5,6 +5,7 @@ pubDate: 2019-04-28
 updatedDate: 2022-07-01
 author: "Jasper Jansen"
 categories: ["Begrafenisondernemer"]
+image: "/wp-content/uploads/2019/08/barendrecht-uitvaartondernemer.png"
 metaTitle: "Begrafenisondernemer Barendrecht Nodig? | Vergelijk Gratis 5 Offertes!"
 compare: true
 ---

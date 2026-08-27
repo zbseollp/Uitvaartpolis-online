@@ -5,6 +5,7 @@ pubDate: 2023-01-08
 updatedDate: 2025-07-11
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2023/01/begrafenis-op-zondag.jpg"
 metaTitle: "Begrafenis op zondag - Uitvaartpolis-online.com"
 ---
 

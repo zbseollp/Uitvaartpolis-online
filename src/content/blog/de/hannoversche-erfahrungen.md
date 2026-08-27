@@ -5,6 +5,7 @@ pubDate: 2023-09-15
 updatedDate: 2023-09-15
 author: "Jasper Jansen"
 categories: ["Sterbegeldversicherung"]
+image: "/wp-content/uploads/2022/03/hannoversche-logo.jpg"
 metaTitle: "Hannoversche Sterbegeldversicherung - Uitvaartpolis-online.com"
 ---
 

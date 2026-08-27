@@ -5,6 +5,7 @@ pubDate: 2020-09-06
 updatedDate: 2025-07-11
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2020/07/zeemansgraf-afbeelding.jpg"
 metaTitle: "Zeemansgraf | Lees Alles Van A-Z | Bekijk De Kosten & Mogelijkheden"
 ---
 

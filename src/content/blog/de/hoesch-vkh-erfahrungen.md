@@ -5,6 +5,7 @@ pubDate: 2022-11-08
 updatedDate: 2022-11-08
 author: "Jasper Jansen"
 categories: ["Sterbegeldversicherung"]
+image: "/wp-content/uploads/2022/03/hoesch-logo.jpg"
 metaTitle: "Sterbegeldversicherung Hoesch - Uitvaartpolis-online.com"
 ---
 

@@ -5,6 +5,7 @@ pubDate: 2024-01-18
 updatedDate: 2024-01-18
 author: "Jasper Jansen"
 categories: ["Blog"]
+image: "/wp-content/uploads/2024/01/linked-in.png"
 metaTitle: "Is LinkedIn volgers kopen slechts een strategie? - Uitvaartpolis-online.com"
 ---
 

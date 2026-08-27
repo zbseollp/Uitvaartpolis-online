@@ -5,6 +5,7 @@ pubDate: 2020-09-30
 updatedDate: 2025-07-01
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2020/06/overlijden-niet-melden-bij-bank-afbeelding-scaled.jpg"
 metaTitle: "Overlijden Niet Melden Bij Bank | Bankzaken Van Uw Dierbare Regelen"
 ---
 

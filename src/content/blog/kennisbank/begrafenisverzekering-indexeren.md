@@ -5,6 +5,7 @@ pubDate: 2019-03-07
 updatedDate: 2023-02-27
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2018/10/indexatie-van-de-begrafenisverzekering.jpg"
 metaTitle: "Hoe Werkt Het Indexeren Van Je Begrafenisverzekering Precies In 2026?"
 ---
 

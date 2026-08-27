@@ -5,6 +5,7 @@ pubDate: 2020-10-30
 updatedDate: 2025-07-10
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2019/08/overlijdensrisicoverzekering-psychische-klachten-featured-image.jpg"
 metaTitle: "Overlijdensrisicoverzekering Psychische Klachten | Alles van A-Z!"
 ---
 

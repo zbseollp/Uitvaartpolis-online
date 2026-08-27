@@ -5,6 +5,7 @@ pubDate: 2022-06-23
 updatedDate: 2022-06-23
 author: "Jasper Jansen"
 categories: ["Reviews"]
+image: "/wp-content/uploads/2021/09/Dela_logo-2.png"
 metaTitle: "Hoe Werkt Het Verzekeren van Je Begrafenis Precies Bij DELA?"
 ---
 

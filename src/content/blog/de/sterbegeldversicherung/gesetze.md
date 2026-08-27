@@ -5,6 +5,7 @@ pubDate: 2021-03-30
 updatedDate: 2022-06-28
 author: "Jasper Jansen"
 categories: ["Sterbegeldversicherung"]
+image: "/wp-content/uploads/2021/03/gewerbe-sterbegeldversicherung.jpg"
 metaTitle: "Sterbegeldversicherung Gesetze (2022) | Uitvaartpolis-online.de"
 ---
 

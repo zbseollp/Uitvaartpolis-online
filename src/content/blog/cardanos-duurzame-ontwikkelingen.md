@@ -5,6 +5,7 @@ pubDate: 2024-06-12
 updatedDate: 2024-06-12
 author: "Jasper Jansen"
 categories: ["Blog"]
+image: "/wp-content/uploads/2024/05/ethereum-coin.jpg"
 metaTitle: "Cardano's duurzame ontwikkelingen - Uitvaartpolis-online.com"
 ---
 

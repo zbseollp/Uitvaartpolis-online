@@ -5,6 +5,7 @@ pubDate: 2021-09-14
 updatedDate: 2022-06-27
 author: "Jasper Jansen"
 categories: ["Sterbegeldversicherung"]
+image: "/wp-content/uploads/2022/02/sterbegeldversicherung-fur-osterreich.jpg"
 metaTitle: "Sterbegeldversicherung für Österreich (2022) | Uitvaartpolis-online.de"
 ---
 

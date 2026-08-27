@@ -5,6 +5,7 @@ pubDate: 2022-05-10
 updatedDate: 2022-05-10
 author: "Jasper Jansen"
 categories: ["Blog"]
+image: "/wp-content/uploads/2020/08/bang-voor-de-dood.jpg"
 metaTitle: "Waarom hebben veel mensen die online spellen spelen last van angst voor de dood? - Uitvaartpolis-online.com"
 ---
 

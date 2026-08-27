@@ -5,6 +5,7 @@ pubDate: 2022-11-07
 updatedDate: 2022-11-10
 author: "Jasper Jansen"
 categories: ["Sterbegeldversicherung"]
+image: "/wp-content/uploads/2022/02/sterbegeldversicherung-ab-welchem-alter.jpg"
 metaTitle: "Sterbegeldversicherung Ab Welchem Alter (2022) | Uitvaartpolis-online.de"
 ---
 

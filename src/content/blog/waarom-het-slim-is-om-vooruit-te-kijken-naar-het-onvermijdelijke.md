@@ -5,6 +5,7 @@ pubDate: 2025-06-16
 updatedDate: 2025-06-16
 author: "Jasper Jansen"
 categories: ["Blog"]
+image: "/wp-content/uploads/2025/06/pexels-rdne-6841459.jpg"
 metaTitle: "Waarom Het Slim Is om Vooruit te Kijken naar het Onvermijdelijke - Uitvaartpolis-online.com"
 ---
 

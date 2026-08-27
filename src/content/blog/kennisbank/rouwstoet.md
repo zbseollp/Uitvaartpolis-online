@@ -5,6 +5,7 @@ pubDate: 2020-10-10
 updatedDate: 2023-02-27
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2020/05/rouwstoet-regels.jpg"
 metaTitle: "Rouwstoet Regels: Belangrijkste Punten Overzichtelijk Op Een Rijtje!"
 ---
 

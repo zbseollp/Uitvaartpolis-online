@@ -5,6 +5,7 @@ pubDate: 2021-05-10
 updatedDate: 2022-06-28
 author: "Jasper Jansen"
 categories: ["Sterbegeldversicherung"]
+image: "/wp-content/uploads/2019/08/goedkoopste-begrafenis-afbeelding.jpg"
 metaTitle: "Billigste Beerdigung (2022) | Uitvaartpolis-online.de"
 ---
 

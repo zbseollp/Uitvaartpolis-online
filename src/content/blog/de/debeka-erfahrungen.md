@@ -5,6 +5,7 @@ pubDate: 2023-09-15
 updatedDate: 2023-09-15
 author: "Jasper Jansen"
 categories: ["Sterbegeldversicherung"]
+image: "/wp-content/uploads/2022/03/debeka-logo.jpg"
 metaTitle: "Sterbegeldversicherung Debeka (2022) | Uitvaartpolis-online.de"
 ---
 

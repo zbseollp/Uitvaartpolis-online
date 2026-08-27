@@ -5,6 +5,7 @@ pubDate: 2020-12-15
 updatedDate: 2022-07-01
 author: "Jasper Jansen"
 categories: ["Begrafenisondernemer"]
+image: "/wp-content/uploads/2019/08/den-bosch-uitvaartondernemer.jpg"
 metaTitle: "Begrafenisondernemer Den Bosch Nodig? | Vergelijk Gratis 5 Offertes!"
 compare: true
 ---

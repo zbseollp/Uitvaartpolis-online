@@ -5,6 +5,7 @@ pubDate: 2021-01-23
 updatedDate: 2022-04-20
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2019/08/repatri%C3%ABring-niet-gedekt-uitvaartverzekering-featured-image.jpg"
 metaTitle: "Veel Mensen Weten Niks Over Dekking Van Repatriëring | Kom Erachter!"
 ---
 

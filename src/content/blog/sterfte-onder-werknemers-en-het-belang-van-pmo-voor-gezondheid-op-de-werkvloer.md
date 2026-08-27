@@ -4,6 +4,7 @@ description: "De gezondheid en het welzijn van werknemers zijn cruciaal voor elk
 pubDate: 2024-02-04
 author: "Jasper Jansen"
 categories: ["Blog"]
+image: "/wp-content/uploads/2023/12/pexels-anna-nekrashevich-6801649.jpg"
 metaTitle: "Sterfte onder werknemers en het belang van PMO voor gezondheid op de werkvloer - Uitvaartpolis-online.com"
 ---
 

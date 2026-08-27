@@ -5,6 +5,7 @@ pubDate: 2020-10-10
 updatedDate: 2023-02-27
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2019/07/goedkope-begrafenisverzekering.jpg"
 metaTitle: "Hoe Kun Je Een Goedkope Begrafenisverzekering Vinden In 2026?"
 ---
 

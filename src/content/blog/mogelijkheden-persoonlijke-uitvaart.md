@@ -5,6 +5,7 @@ pubDate: 2024-10-09
 updatedDate: 2024-10-09
 author: "Jasper Jansen"
 categories: ["Blog"]
+image: "/wp-content/uploads/2024/10/pexels-kseniachernaya-8986671.jpg"
 metaTitle: "Sneek crematorium: wat zijn de mogelijkheden voor een persoonlijke uitvaart? - Uitvaartpolis-online.com"
 ---
 

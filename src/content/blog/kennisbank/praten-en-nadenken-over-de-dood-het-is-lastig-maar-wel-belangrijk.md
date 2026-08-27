@@ -5,6 +5,7 @@ pubDate: 2019-05-21
 updatedDate: 2022-04-21
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2021/12/22aa2.jpg"
 ---
 
 Als een dierbare overlijdt, komt er veel op je af. Er moet het een en ander geregeld worden, terwijl je hoofd hier eigenlijk niet naar staat. Toch moet men tijdens deze emotionele dagen verschillende beslissingen nemen en die zijn niet allemaal even makkelijk. Mede omdat je het laatste afscheid zo mooi mogelijk wilt maken.

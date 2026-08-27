@@ -5,6 +5,7 @@ pubDate: 2022-09-15
 updatedDate: 2023-02-27
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2018/02/wat-kost-een-uitvaart.jpg"
 metaTitle: "Wat Kost Een Uitvaart In 2026? | Bereken Direct Kosten In 3 Minuten"
 compare: true
 ---

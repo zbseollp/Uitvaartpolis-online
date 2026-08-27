@@ -5,6 +5,7 @@ pubDate: 2024-03-25
 updatedDate: 2024-03-25
 author: "Jasper Jansen"
 categories: ["Blog"]
+image: "/wp-content/uploads/2024/03/Bitvavo.png"
 metaTitle: "Bitvavo OTC: grote transacties, eenvoudig gemaakt\" - Uitvaartpolis-online.com"
 ---
 

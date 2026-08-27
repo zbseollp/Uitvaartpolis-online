@@ -5,6 +5,7 @@ pubDate: 2021-05-24
 updatedDate: 2022-04-07
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2019/08/dela-tweede-plek-beste-werkgever-featured-image.jpg"
 metaTitle: "DELA Wint Tweede Prijs Beste Werkgever In Europa | Lees Het Hier!"
 ---
 

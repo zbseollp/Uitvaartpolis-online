@@ -5,6 +5,7 @@ pubDate: 2019-07-29
 updatedDate: 2023-02-27
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2019/07/uitvaartverzekering-opzeggen.jpg"
 metaTitle: "Uitvaartverzekering Opzeggen In 2026? Hoe Werkt Het? | Lees de GIDS"
 ---
 

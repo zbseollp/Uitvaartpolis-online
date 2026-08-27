@@ -5,6 +5,7 @@ pubDate: 2018-12-05
 updatedDate: 2022-04-20
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2020/05/Uitvaartverzekering-afsluiten-bij-ziekte-afbeelding.jpg"
 metaTitle: "Uitvaartverzekering Afsluiten Bij Ziekte | Lees Er Hier Alles Over!"
 ---
 

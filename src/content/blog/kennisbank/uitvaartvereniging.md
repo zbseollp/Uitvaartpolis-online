@@ -5,6 +5,7 @@ pubDate: 2019-11-18
 updatedDate: 2022-04-21
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2020/04/Uitvaartvereniging-afbeelding.jpg"
 metaTitle: "Uitvaartvereniging: Wat Is Het Eigenlijk & Hoe Werkt Het? Lees Het Hier!"
 ---
 

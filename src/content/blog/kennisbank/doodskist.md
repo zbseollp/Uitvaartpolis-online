@@ -5,6 +5,7 @@ pubDate: 2021-05-09
 updatedDate: 2025-07-11
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2019/08/doodskist.jpg"
 metaTitle: "Alles Over De Doodskist Kopen, Lees Onze Gids En Kom Alles Te Weten"
 ---
 

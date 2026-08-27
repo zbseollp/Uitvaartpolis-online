@@ -5,6 +5,7 @@ pubDate: 2021-03-09
 updatedDate: 2025-07-11
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2019/08/begrafenis-kleding-featured-image.jpg"
 metaTitle: "Begrafenis Kleding | Wat Draag Je Op Een Begrafenis In 2026?"
 ---
 

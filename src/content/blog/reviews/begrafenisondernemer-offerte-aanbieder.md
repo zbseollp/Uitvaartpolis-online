@@ -5,6 +5,7 @@ pubDate: 2022-09-17
 updatedDate: 2022-09-17
 author: "Jasper Jansen"
 categories: ["Reviews"]
+image: "/wp-content/uploads/2022/09/offerte.jpg"
 metaTitle: "Begrafenisondernemer offerte aanbieder - Uitvaartpolis-online.com"
 ---
 

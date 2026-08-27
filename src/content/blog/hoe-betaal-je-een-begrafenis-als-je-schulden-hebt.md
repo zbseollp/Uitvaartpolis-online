@@ -5,6 +5,7 @@ pubDate: 2022-11-28
 updatedDate: 2023-01-04
 author: "Jasper Jansen"
 categories: ["Blog"]
+image: "/wp-content/uploads/2022/11/property-insurance-agent-consulting-customer-2021-12-22-23-43-50-utc-scaled.jpg"
 metaTitle: "Hoe betaal je een begrafenis als je schulden hebt? - Uitvaartpolis-online.com"
 ---
 

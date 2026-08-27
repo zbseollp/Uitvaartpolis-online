@@ -5,6 +5,7 @@ pubDate: 2020-11-22
 updatedDate: 2022-04-19
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2018/08/duurzame-uitvaart.jpg"
 metaTitle: "Een Duurzame Uitvaart | Wat Is Het Precies? Kom Het Hier Te Weten!"
 ---
 

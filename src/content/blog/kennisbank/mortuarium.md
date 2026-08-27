@@ -5,6 +5,7 @@ pubDate: 2021-01-21
 updatedDate: 2022-08-25
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2020/08/Mortuarium.jpg"
 metaTitle: "Mortuarium | Verzorging, Kosten, Informatie | Alles Van A-Z Op Een Rijtje!"
 ---
 

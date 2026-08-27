@@ -5,6 +5,7 @@ pubDate: 2021-04-08
 updatedDate: 2022-06-28
 author: "Jasper Jansen"
 categories: ["Sterbegeldversicherung"]
+image: "/wp-content/uploads/2020/06/hond-laten-cremeren-scaled.jpg"
 metaTitle: "Einäscherung eines Hundes, wie genau funktioniert das und was kostet es? (2022) | Uitvaartpolis-online.de"
 ---
 

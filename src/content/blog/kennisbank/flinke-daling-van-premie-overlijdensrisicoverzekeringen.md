@@ -5,6 +5,7 @@ pubDate: 2019-11-25
 updatedDate: 2022-04-15
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2019/08/daling-premies-overlijdensrisicoverzekering-featured-image.jpg"
 metaTitle: "Grote Daling In Hoogte Premies Van Overlijdensrisicoverzekeringen"
 ---
 

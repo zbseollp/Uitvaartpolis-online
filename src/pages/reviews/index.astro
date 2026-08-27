@@ -35,7 +35,7 @@ const rest = reviews.filter((r) => !groups.some((g) => r.id.includes(g.key)));
           <p class="section-sub">{g.items.length} aanbieders beoordeeld.</p>
           <div class="grid grid-3">
             {g.items.map((r) => (
-              <a class="card" href={`/${r.id}/`}>
+              <a class="tile" href={`/${r.id}/`}>
                 <h3>{r.data.title}</h3>
                 {r.data.description && <p>{r.data.description.slice(0, 120)}…</p>}
               </a>
@@ -48,7 +48,7 @@ const rest = reviews.filter((r) => !groups.some((g) => r.id.includes(g.key)));
           <h2 class="section-title">Overig</h2>
           <div class="grid grid-3">
             {rest.map((r) => (
-              <a class="card" href={`/${r.id}/`}>
+              <a class="tile" href={`/${r.id}/`}>
                 <h3>{r.data.title}</h3>
               </a>
             ))}

@@ -5,6 +5,7 @@ pubDate: 2021-03-30
 updatedDate: 2022-06-28
 author: "Jasper Jansen"
 categories: ["Sterbegeldversicherung"]
+image: "/wp-content/uploads/2022/02/sterbegeldversicherung-kundigen.jpg"
 metaTitle: "Sterbegeldversicherung Kündigen (2022) | Uitvaartpolis-online.de"
 ---
 

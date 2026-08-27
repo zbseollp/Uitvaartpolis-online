@@ -5,6 +5,7 @@ pubDate: 2020-07-17
 updatedDate: 2022-04-15
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2020/07/Verpanding-overlijdensrisicoverzekering.jpg"
 metaTitle: "Verpanding Overlijdensrisicoverzekering | Lees Alles Van A-Z Op Een Rijtje"
 ---
 

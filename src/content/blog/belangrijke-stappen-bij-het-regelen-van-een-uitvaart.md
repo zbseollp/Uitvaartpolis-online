@@ -5,6 +5,7 @@ pubDate: 2024-10-09
 updatedDate: 2024-10-09
 author: "Jasper Jansen"
 categories: ["Blog"]
+image: "/wp-content/uploads/2024/10/pexels-cottonbro-10496915.jpg"
 metaTitle: "Uitvaartcentrum Den Haag: belangrijke stappen bij het regelen van een uitvaart - Uitvaartpolis-online.com"
 ---
 

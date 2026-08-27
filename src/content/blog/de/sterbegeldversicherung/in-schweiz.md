@@ -5,6 +5,7 @@ pubDate: 2021-03-01
 updatedDate: 2022-06-28
 author: "Jasper Jansen"
 categories: ["Sterbegeldversicherung"]
+image: "/wp-content/uploads/2022/02/sterbegeldversicherung-fur-schweiz.jpg"
 metaTitle: "Sterbegeldversicherung für Schweiz (2022) | Uitvaartpolis-online.de"
 ---
 

@@ -5,6 +5,7 @@ pubDate: 2021-04-16
 updatedDate: 2025-07-10
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2018/10/antilliaanse-uitvaart.jpg"
 metaTitle: "Antilliaanse Uitvaartverzekering, Hoe Werkt Het In 2026? | Bekijk De Gids!"
 ---
 

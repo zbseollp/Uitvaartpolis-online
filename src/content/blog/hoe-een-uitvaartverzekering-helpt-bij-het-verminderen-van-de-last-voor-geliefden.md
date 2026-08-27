@@ -5,6 +5,7 @@ pubDate: 2023-12-22
 updatedDate: 2023-12-22
 author: "Jasper Jansen"
 categories: ["Blog"]
+image: "/wp-content/uploads/2023/03/Afbeelding1.jpg"
 metaTitle: "Hoe een uitvaartverzekering helpt bij het verminderen van de last voor geliefden - Uitvaartpolis-online.com"
 ---
 

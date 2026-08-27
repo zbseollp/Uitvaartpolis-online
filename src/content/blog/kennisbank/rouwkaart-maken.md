@@ -5,6 +5,7 @@ pubDate: 2020-02-29
 updatedDate: 2025-07-11
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2018/08/rouwkaart-featured.jpg"
 metaTitle: "Rouwkaart Maken Kan Lastig Zijn | Alles Waar Je Op Moet Letten in 2026!"
 ---
 

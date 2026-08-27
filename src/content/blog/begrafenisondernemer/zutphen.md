@@ -5,6 +5,7 @@ pubDate: 2021-02-15
 updatedDate: 2022-07-01
 author: "Jasper Jansen"
 categories: ["Begrafenisondernemer"]
+image: "/wp-content/uploads/2019/08/zutphen-begrafenisondernemer.png"
 metaTitle: "Begrafenisondernemer Zutphen Nodig? | Vergelijk Gratis 5 Offertes!"
 compare: true
 ---

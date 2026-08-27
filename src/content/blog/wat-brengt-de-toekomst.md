@@ -5,6 +5,7 @@ pubDate: 2024-05-31
 updatedDate: 2024-05-31
 author: "Jasper Jansen"
 categories: ["Blog"]
+image: "/wp-content/uploads/2024/05/ethereum-coin.jpg"
 metaTitle: "Wat brengt de toekomst? - Uitvaartpolis-online.com"
 ---
 

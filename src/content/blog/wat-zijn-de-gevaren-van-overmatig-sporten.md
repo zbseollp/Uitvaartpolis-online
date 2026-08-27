@@ -5,6 +5,7 @@ pubDate: 2024-02-06
 updatedDate: 2024-02-06
 author: "Jasper Jansen"
 categories: ["Blog"]
+image: "/wp-content/uploads/2023/12/pexels-anna-nekrashevich-6801649.jpg"
 metaTitle: "Wat zijn de gevaren van overmatig sporten? - Uitvaartpolis-online.com"
 ---
 

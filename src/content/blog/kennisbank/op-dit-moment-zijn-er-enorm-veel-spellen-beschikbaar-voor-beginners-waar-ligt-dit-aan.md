@@ -5,6 +5,7 @@ pubDate: 2019-10-02
 updatedDate: 2022-04-21
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2021/12/Beste-casinospellen.jpg"
 metaTitle: "Op dit moment zijn er enorm veel spellen beschikbaar voor beginners"
 ---
 

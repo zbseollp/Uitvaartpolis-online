@@ -5,6 +5,7 @@ pubDate: 2020-09-13
 updatedDate: 2022-04-13
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2018/08/resomeren-machine-uitvaart.jpg"
 metaTitle: "Resomeren, Wat Is en Hoe Werkt Het? | Alles van A-Z! Mis Dit Niet"
 ---
 

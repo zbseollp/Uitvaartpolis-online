@@ -22,7 +22,7 @@ const items = (await getCollection('blog'))
     <div class="wrap">
       <div class="grid grid-3">
         {items.map((r) => (
-          <a class="card" href={`/${r.id}/`}>
+          <a class="tile" href={`/${r.id}/`}>
             <h3>{r.data.title}</h3>
             {r.data.description && <p>{r.data.description.slice(0, 120)}…</p>}
           </a>

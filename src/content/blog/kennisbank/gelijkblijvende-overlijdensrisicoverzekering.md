@@ -5,6 +5,7 @@ pubDate: 2020-11-29
 updatedDate: 2022-04-21
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2018/10/gelijkblijvende-orv-scaled.jpg"
 metaTitle: "Wat Is Een Gelijkblijvende Overlijdensrisicoverzekering? - Alles Van A-Z!"
 ---
 

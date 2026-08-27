@@ -5,6 +5,7 @@ pubDate: 2019-09-07
 updatedDate: 2025-07-11
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2019/08/belasting-uitvaartverzekering.jpg"
 metaTitle: "Hoe Zit Het Met Belasting Uitvaartverzekering? Lees Alles In Onze Gids!"
 ---
 

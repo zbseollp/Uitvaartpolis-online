@@ -5,6 +5,7 @@ pubDate: 2021-01-12
 updatedDate: 2022-08-01
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2020/06/hond-laten-cremeren-scaled.jpg"
 metaTitle: "Hond Cremeren: Mogelijkheden, Kosten & Aandachtspunten In 2026"
 ---
 

@@ -5,6 +5,7 @@ pubDate: 2024-04-23
 updatedDate: 2024-04-23
 author: "Jasper Jansen"
 categories: ["Blog"]
+image: "/wp-content/uploads/2024/04/bybit-nederland.jpg"
 metaTitle: "Factoren die de Ethereum koers beïnvloeden - Uitvaartpolis-online.com"
 ---
 

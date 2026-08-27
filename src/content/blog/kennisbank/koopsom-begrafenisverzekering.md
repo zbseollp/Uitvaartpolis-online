@@ -5,6 +5,7 @@ pubDate: 2019-01-08
 updatedDate: 2025-07-11
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2018/10/koopsom-begrafenisverzekering-featured-image-1.jpg"
 metaTitle: "De Koopsom Begrafenisverzekering, Hoe Werkt Het In 2026? | Lees Hier!"
 ---
 

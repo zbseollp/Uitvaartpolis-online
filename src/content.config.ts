@@ -18,6 +18,8 @@ const blog = defineCollection({
     // en markeert of de affiliate-vergelijker op deze pagina actief was.
     metaTitle: z.string().optional(),
     compare: z.boolean().optional(),
+    // Uitgelichte afbeelding (og:image van de bron), root-relatief pad in /public
+    image: z.string().optional(),
   }),
 });
 

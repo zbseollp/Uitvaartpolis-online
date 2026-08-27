@@ -5,6 +5,7 @@ pubDate: 2022-06-20
 updatedDate: 2022-06-21
 author: "Jasper Jansen"
 categories: ["Blog"]
+image: "/wp-content/uploads/2022/06/rosses-1888819_960_720.jpg"
 metaTitle: "Hoe sluit je de beste uitvaartverzekering af? - Uitvaartpolis-online.com"
 ---
 

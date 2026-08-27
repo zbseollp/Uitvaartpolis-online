@@ -5,6 +5,7 @@ pubDate: 2021-02-11
 updatedDate: 2022-04-15
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2019/08/korting-op-premie-overlijdensrisicoverzekering-stoppen-met-roken-featured-image.jpg"
 metaTitle: "Lagere Overlijdensrisicoverzekering Premie Voor Ex-Rokers | Bekijk NU!"
 ---
 

@@ -5,6 +5,7 @@ pubDate: 2024-09-27
 updatedDate: 2024-09-27
 author: "Jasper Jansen"
 categories: ["Blog"]
+image: "/wp-content/uploads/2024/09/image-1024x682.png"
 metaTitle: "Liefdesgedichten in vergelijking met andere poëzie - Uitvaartpolis-online.com"
 ---
 

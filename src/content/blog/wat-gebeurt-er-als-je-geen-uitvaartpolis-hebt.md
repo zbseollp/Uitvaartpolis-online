@@ -4,6 +4,7 @@ description: "Wanneer je nadenkt over de toekomst, is een uitvaartpolis misschie
 pubDate: 2024-05-01
 author: "Jasper Jansen"
 categories: ["Blog"]
+image: "/wp-content/uploads/2023/12/pexels-polina-tankilevitch-5585791-1.jpg"
 metaTitle: "Wat gebeurt er als je geen uitvaartpolis hebt? - Uitvaartpolis-online.com"
 ---
 

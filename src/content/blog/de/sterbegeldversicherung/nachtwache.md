@@ -5,6 +5,7 @@ pubDate: 2021-10-16
 updatedDate: 2022-06-27
 author: "Jasper Jansen"
 categories: ["Sterbegeldversicherung"]
+image: "/wp-content/uploads/2020/07/Avondwake.jpg"
 metaTitle: "Nachtwache, was ist das genau & was muss man dabei beachten? † Lesen Sie es hier (2022) | Uitvaartpolis-online.de"
 ---
 

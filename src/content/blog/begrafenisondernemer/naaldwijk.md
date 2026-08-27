@@ -5,6 +5,7 @@ pubDate: 2023-09-07
 updatedDate: 2023-09-07
 author: "Jasper Jansen"
 categories: ["Begrafenisondernemer"]
+image: "/wp-content/uploads/2023/09/uitvaartverzorger-naaldwijk.jpg"
 metaTitle: "Begrafenisondernemer Amsterdam Nodig? | Vergelijk Gratis 5 Offertes!"
 compare: true
 ---

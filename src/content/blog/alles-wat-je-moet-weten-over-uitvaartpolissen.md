@@ -4,6 +4,7 @@ description: "In een wereld waar zekerheden schaars zijn, biedt een uitvaartpoli
 pubDate: 2024-01-28
 author: "Jasper Jansen"
 categories: ["Blog"]
+image: "/wp-content/uploads/2023/03/Afbeelding1.jpg"
 metaTitle: "Alles wat je moet weten over uitvaartpolissen - Uitvaartpolis-online.com"
 ---
 

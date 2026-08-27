@@ -5,6 +5,7 @@ pubDate: 2021-05-16
 updatedDate: 2022-07-04
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2018/08/combinatie-uitvaartverzekering.jpg"
 metaTitle: "Hoe Werkt De Combinatie Uitvaartverzekering Precies? | Lees Onze Gids!"
 ---
 

@@ -5,6 +5,7 @@ pubDate: 2023-12-11
 updatedDate: 2023-12-14
 author: "Jasper Jansen"
 categories: ["Blog"]
+image: "/wp-content/uploads/2022/11/property-insurance-agent-consulting-customer-2021-12-22-23-43-50-utc-scaled.jpg"
 metaTitle: "Vergelijking van uitvaartverzekeringen: Waar moet je op letten? - Uitvaartpolis-online.com"
 ---
 

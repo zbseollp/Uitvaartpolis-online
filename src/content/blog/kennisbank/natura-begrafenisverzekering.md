@@ -5,6 +5,7 @@ pubDate: 2019-03-15
 updatedDate: 2023-02-27
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2018/10/natura-begrafenisverzekering-featured-image.jpg"
 metaTitle: "Alles Over De Natura Begrafenisverzekering In 2026 | Lees De Gids!"
 ---
 

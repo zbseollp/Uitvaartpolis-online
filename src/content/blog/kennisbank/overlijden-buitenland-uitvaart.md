@@ -5,6 +5,7 @@ pubDate: 2019-07-18
 updatedDate: 2022-04-19
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2018/08/buitenland.jpg"
 metaTitle: "Overlijden In Het Buitenland in 2026 | Kom Alles Te Weten Van A-Z!"
 ---
 

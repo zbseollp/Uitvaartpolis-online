@@ -5,6 +5,7 @@ pubDate: 2022-08-23
 updatedDate: 2022-09-01
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2022/09/inflatie-uitvaartverzekering.jpg"
 metaTitle: "Wat Kost Een Crematie In 2026? | Bereken de kosten direct in 3 minuten"
 ---
 

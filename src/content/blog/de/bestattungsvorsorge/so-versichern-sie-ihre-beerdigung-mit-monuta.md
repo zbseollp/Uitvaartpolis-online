@@ -5,6 +5,7 @@ pubDate: 2021-11-07
 updatedDate: 2022-06-27
 author: "Jasper Jansen"
 categories: ["Sterbegeldversicherung"]
+image: "/wp-content/uploads/2019/08/monuta-website-de-beste-featured-image-unsmushed.jpg"
 metaTitle: "So versichern Sie Ihre Beerdigung mit Monuta (2022) | Uitvaartpolis-online.de"
 ---
 

@@ -5,6 +5,7 @@ pubDate: 2023-09-16
 updatedDate: 2023-09-17
 author: "Jasper Jansen"
 categories: ["Sterbegeldversicherung"]
+image: "/wp-content/uploads/2023/09/rechner-sterbegeldversicherung.jpg"
 metaTitle: "Sterbegeldversicherung Rechner (2022) | Uitvaartpolis-online.de"
 ---
 

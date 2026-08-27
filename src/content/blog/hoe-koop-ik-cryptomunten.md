@@ -5,6 +5,7 @@ pubDate: 2024-03-19
 updatedDate: 2024-03-19
 author: "Jasper Jansen"
 categories: ["Blog"]
+image: "/wp-content/uploads/2024/03/hoe-koop-ik-cryptomunten.jpg"
 metaTitle: "Hoe koop ik cryptomunten? - Uitvaartpolis-online.com"
 ---
 

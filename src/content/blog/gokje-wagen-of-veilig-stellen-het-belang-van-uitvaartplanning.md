@@ -5,6 +5,7 @@ pubDate: 2023-10-11
 updatedDate: 2023-10-11
 author: "Jasper Jansen"
 categories: ["Blog"]
+image: "/wp-content/uploads/2023/10/coffin-at-funeral-in-orthodox-church-2022-12-16-09-48-33-utc-scaled.jpg"
 metaTitle: "Gokje wagen of veilig stellen: het belang van uitvaartplanning - Uitvaartpolis-online.com"
 ---
 

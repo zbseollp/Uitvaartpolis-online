@@ -5,6 +5,7 @@ pubDate: 2022-01-20
 updatedDate: 2022-06-27
 author: "Jasper Jansen"
 categories: ["Sterbegeldversicherung"]
+image: "/wp-content/uploads/2022/02/bestattungsvorsorge-steuerlich-absetzbar.jpg"
 metaTitle: "Bestattungsvorsorge Steuerlich Absetzbar (2022) | Uitvaartpolis-online.de"
 ---
 

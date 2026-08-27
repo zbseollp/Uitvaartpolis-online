@@ -5,6 +5,7 @@ pubDate: 2023-09-15
 updatedDate: 2023-09-15
 author: "Jasper Jansen"
 categories: ["Sterbegeldversicherung"]
+image: "/wp-content/uploads/2022/05/barmenia-logo-2.jpg"
 metaTitle: "Sterbegeldversicherung Barmenia (2022) | Uitvaartpolis-online.de"
 ---
 

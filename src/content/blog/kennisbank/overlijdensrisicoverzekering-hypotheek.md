@@ -5,6 +5,7 @@ pubDate: 2021-03-06
 updatedDate: 2022-04-15
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2019/08/overlijdensrisicoverzekering-hypotheek-featured-image.jpg"
 metaTitle: "Overlijdensrisicoverzekering Hypotheek Afsluiten In 2026? Bekijk Het NU!"
 ---
 

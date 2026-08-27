@@ -5,6 +5,7 @@ pubDate: 2021-01-12
 updatedDate: 2022-04-13
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2019/08/geen-uitvaartverzekering-featured-image.jpg"
 metaTitle: "Geen Uitvaartverzekering, En Dan? Lees Alle Gevolgen & Ben Voorbereid!"
 ---
 

@@ -5,6 +5,7 @@ pubDate: 2021-02-20
 updatedDate: 2025-07-01
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2019/08/rouwband.jpg"
 metaTitle: "Wat Is Een Rouwband En Hoe Kun Je Deze Dragen? Lees Onze Gids!"
 ---
 

@@ -5,6 +5,7 @@ pubDate: 2023-09-06
 updatedDate: 2023-09-06
 author: "Jasper Jansen"
 categories: ["Sterbegeldversicherung"]
+image: "/wp-content/uploads/2022/05/cosmos-direkt.png"
 metaTitle: "Sterbegeldversicherung Cosmos Direkt (2022) | Uitvaartpolis-online.de"
 ---
 

@@ -5,6 +5,7 @@ pubDate: 2019-05-17
 updatedDate: 2022-04-20
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2020/05/Indexatie-uitvaartverzekering-afbeelding-scaled.jpg"
 metaTitle: "Indexatie uitvaartverzekering | Informatie, Premies & Dekkingen!"
 ---
 

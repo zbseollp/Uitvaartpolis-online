@@ -5,6 +5,7 @@ pubDate: 2020-08-12
 updatedDate: 2022-04-15
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2019/08/afsluitkosten.jpg"
 metaTitle: "Afsluitkosten Bij Een Overlijdensrisicoverzekering? Alles In Deze GIDS"
 ---
 

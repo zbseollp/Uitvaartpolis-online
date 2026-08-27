@@ -5,6 +5,7 @@ pubDate: 2023-12-09
 updatedDate: 2023-12-16
 author: "Jasper Jansen"
 categories: ["Blog"]
+image: "/wp-content/uploads/2023/03/Afbeelding1.jpg"
 metaTitle: "Waarom jonge gezinnen moeten overwegen om een uitvaartverzekering af te sluiten - Uitvaartpolis-online.com"
 ---
 

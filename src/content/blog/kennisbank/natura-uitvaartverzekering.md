@@ -5,6 +5,7 @@ pubDate: 2020-06-29
 updatedDate: 2022-04-14
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2018/08/natura-uitvaartverzekering.jpeg"
 metaTitle: "Hoe Werkt De Natura Uitvaartverzekering In 2026? | Lees Onze Gids!"
 ---
 

@@ -5,6 +5,7 @@ pubDate: 2021-07-29
 updatedDate: 2022-06-28
 author: "Jasper Jansen"
 categories: ["Sterbegeldversicherung"]
+image: "/wp-content/uploads/2022/02/sterbegeldversicherung-restbetrag.jpg"
 metaTitle: "Sterbegeldversicherung Restbetrag (2022) | Uitvaartpolis-online.de"
 ---
 

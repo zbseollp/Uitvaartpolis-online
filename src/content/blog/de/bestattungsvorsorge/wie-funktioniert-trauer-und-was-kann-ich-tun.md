@@ -5,6 +5,7 @@ pubDate: 2021-09-09
 updatedDate: 2022-06-28
 author: "Jasper Jansen"
 categories: ["Sterbegeldversicherung"]
+image: "/wp-content/uploads/2022/02/trauernde.jpg"
 metaTitle: "Wie funktioniert Trauer und was kann ich tun, um die Trauerzeit gut zu überstehen? (2022) | Uitvaartpolis-online.de"
 ---
 

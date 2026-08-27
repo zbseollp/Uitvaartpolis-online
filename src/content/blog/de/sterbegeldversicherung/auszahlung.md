@@ -5,6 +5,7 @@ pubDate: 2021-11-05
 updatedDate: 2022-11-10
 author: "Jasper Jansen"
 categories: ["Sterbegeldversicherung"]
+image: "/wp-content/uploads/2022/02/sterbegeldversicherung-auszahlung.jpg"
 metaTitle: "Sterbegeldversicherung Auszahlung (2022) | Uitvaartpolis-online.de"
 ---
 

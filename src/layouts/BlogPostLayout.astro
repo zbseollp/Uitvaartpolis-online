@@ -1,20 +1,47 @@
 ---
 import BaseLayout from './BaseLayout.astro';
 import CompareWidget from '../components/CompareWidget.astro';
+import Toc from '../components/Toc.astro';
 import type { CollectionEntry } from 'astro:content';
 
 interface Props {
   entry: CollectionEntry<'blog'>;
+  headings?: { depth: number; slug: string; text: string }[];
 }
-const { entry } = Astro.props;
-const { title, description, pubDate, updatedDate, author, categories = [], metaTitle, compare } = entry.data as any;
-const fmt = (d: Date) =>
-  new Intl.DateTimeFormat('nl-NL', { day: 'numeric', month: 'long', year: 'numeric' }).format(d);
+const { entry, headings = [] } = Astro.props;
+const d = entry.data as any;
+const { title, description, pubDate, updatedDate, author, categories = [], metaTitle, compare, image } = d;
+const fmt = (x: Date) =>
+  new Intl.DateTimeFormat('nl-NL', { day: 'numeric', month: 'long', year: 'numeric' }).format(x);
+
+const section = entry.id.includes('/') ? entry.id.split('/')[0] : null;
+const SECTION_LABEL: Record<string, string> = {
+  kennisbank: 'Kennisbank',
+  reviews: 'Reviews',
+  begrafenisondernemer: 'Begrafenisondernemer',
+  de: 'Sterbegeldversicherung',
+};
 ---
-<BaseLayout title={metaTitle || title} description={description}>
+<BaseLayout title={metaTitle || title} description={description} image={image}>
+  <div class="progress" id="progress"></div>
+
   <section class="page-hero">
     <div class="wrap">
-      {categories.length > 0 && <p style="margin:0 0 10px;font-size:.86rem;color:#9fb8c6">{categories.join(' &middot; ')}</p>}
+      <p class="crumbs">
+        <a href="/">Home</a>
+        {section && SECTION_LABEL[section] && (
+          <>
+            <span>/</span>
+            <a href={`/${section}/`}>{SECTION_LABEL[section]}</a>
+          </>
+        )}
+        {!section && categories[0] && (
+          <>
+            <span>/</span>
+            <a href="/blog/">{categories[0]}</a>
+          </>
+        )}
+      </p>
       <h1>{title}</h1>
       {description && <p>{description}</p>}
     </div>
@@ -23,10 +50,16 @@ const fmt = (d: Date) =>
   <div class="article">
     <div class="wrap article-layout">
       <article>
+        {image && (
+          <figure class="hero-figure">
+            <img src={image} alt="" loading="eager" decoding="async" />
+          </figure>
+        )}
         <div class="meta-line">
+          {categories[0] && <span class="badge">{categories[0]}</span>}
           {author && <span>Door <strong>{author}</strong></span>}
           <span>Gepubliceerd {fmt(pubDate)}</span>
-          {updatedDate && <span>Laatste update {fmt(updatedDate)}</span>}
+          {updatedDate && <span>Bijgewerkt {fmt(updatedDate)}</span>}
         </div>
         <div class="prose">
           <slot />
@@ -35,19 +68,39 @@ const fmt = (d: Date) =>
       </article>
 
       <aside class="aside">
-        <div class="box">
+        <Toc headings={headings} />
+        <div class="box accent">
           <h3>Uitvaartverzekering vergelijken</h3>
-          <p>Bekijk in 3 minuten welke verzekeraar bij je past. 100% onafhankelijk en gratis.</p>
+          <p>Zie in 3 minuten welke verzekeraar bij je past. 100% onafhankelijk en gratis.</p>
           <a class="btn" href="/#vergelijken">Start vergelijking</a>
         </div>
         <div class="box">
           <h3>Veelgelezen</h3>
-          <p style="margin-bottom:6px"><a href="/kennisbank/wat-kost-een-uitvaart/">Wat kost een uitvaart?</a></p>
-          <p style="margin-bottom:6px"><a href="/begrafenisverzekering/">Begrafenisverzekering vergelijken</a></p>
-          <p style="margin-bottom:6px"><a href="/overlijdensrisicoverzekering/">Overlijdensrisicoverzekering</a></p>
-          <p style="margin-bottom:0"><a href="/reviews/">Alle verzekeraars beoordeeld</a></p>
+          <div class="links">
+            <a href="/kennisbank/wat-kost-een-uitvaart/">Wat kost een uitvaart?</a>
+            <a href="/begrafenisverzekering/">Begrafenisverzekering vergelijken</a>
+            <a href="/overlijdensrisicoverzekering/">Overlijdensrisicoverzekering</a>
+            <a href="/reviews/">Alle verzekeraars beoordeeld</a>
+          </div>
         </div>
       </aside>
     </div>
   </div>
+
+  <script is:inline>
+    (function () {
+      var bar = document.getElementById('progress');
+      var art = document.querySelector('.article');
+      if (!bar || !art) return;
+      function upd() {
+        var top = art.offsetTop;
+        var h = art.offsetHeight - window.innerHeight;
+        var p = h > 0 ? ((window.scrollY - top) / h) * 100 : 0;
+        bar.style.width = Math.max(0, Math.min(100, p)) + '%';
+      }
+      document.addEventListener('scroll', upd, { passive: true });
+      window.addEventListener('resize', upd);
+      upd();
+    })();
+  </script>
 </BaseLayout>

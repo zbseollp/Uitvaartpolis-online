@@ -5,6 +5,7 @@ pubDate: 2020-01-05
 updatedDate: 2025-07-10
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2019/08/overlijdensakte-featured-image.jpg"
 metaTitle: "Overlijdensakte Opvragen: Wat Is Het Precies & Hoe Werkt Het Nou?"
 ---
 

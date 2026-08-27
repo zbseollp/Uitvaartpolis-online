@@ -4,6 +4,7 @@ description: "De Boeddhistische uitvaart is meer dan alleen afscheid nemen van e
 pubDate: 2023-02-16
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2023/02/boeddhistische-uitvaart.jpg"
 metaTitle: "Boeddhistische uitvaart: wat zijn de gebruiken & rituelen? - Uitvaartpolis-online.com"
 ---
 

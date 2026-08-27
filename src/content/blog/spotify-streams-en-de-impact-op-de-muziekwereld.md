@@ -5,6 +5,7 @@ pubDate: 2024-04-05
 updatedDate: 2024-04-05
 author: "Jasper Jansen"
 categories: ["Blog"]
+image: "/wp-content/uploads/2024/04/pexels-photo-6700056-scaled.jpeg"
 metaTitle: "Spotify streams en de impact op de muziekwereld - Uitvaartpolis-online.com"
 ---
 

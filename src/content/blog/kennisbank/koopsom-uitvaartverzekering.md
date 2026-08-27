@@ -5,6 +5,7 @@ pubDate: 2019-07-13
 updatedDate: 2022-04-13
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2019/07/koopsom-uitvaartverzekering.jpg"
 metaTitle: "Koopsom Uitvaartverzekering, Hoe Werkt Het In 2026? | Lees Onze Gids!"
 ---
 

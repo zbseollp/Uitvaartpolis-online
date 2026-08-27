@@ -5,6 +5,7 @@ pubDate: 2019-09-01
 updatedDate: 2025-07-11
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2019/08/overlijdensrisicoverzekering-aftrekbaar.jpg"
 metaTitle: "Overlijdensrisicoverzekering Aftrekbaar In 2026 | Lees Onze GIDS"
 ---
 

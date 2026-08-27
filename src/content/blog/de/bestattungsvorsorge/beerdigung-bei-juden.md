@@ -5,6 +5,7 @@ pubDate: 2021-07-17
 updatedDate: 2022-06-28
 author: "Jasper Jansen"
 categories: ["Sterbegeldversicherung"]
+image: "/wp-content/uploads/2018/08/joodse-geloof.jpg"
 metaTitle: "Was ist mit der Beerdigung für Juden? Was müssen Sie beachten (2022) | Uitvaartpolis-online.de"
 ---
 

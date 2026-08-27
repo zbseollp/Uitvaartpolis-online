@@ -5,6 +5,7 @@ pubDate: 2021-01-07
 updatedDate: 2022-08-25
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2021/12/Blackjack-casino.jpg"
 metaTitle: "Geef je fooi vaak fooi? Lees verder om hier meer over te leren!"
 ---
 

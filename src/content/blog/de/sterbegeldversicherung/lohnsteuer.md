@@ -5,6 +5,7 @@ pubDate: 2021-03-24
 updatedDate: 2022-06-28
 author: "Jasper Jansen"
 categories: ["Sterbegeldversicherung"]
+image: "/wp-content/uploads/2022/02/sterbegeldversicherung-lohnsteuer.jpg"
 metaTitle: "Sterbegeldversicherung Lohnsteuer (2022) | Uitvaartpolis-online.de"
 ---
 

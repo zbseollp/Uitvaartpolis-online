@@ -5,6 +5,7 @@ pubDate: 2021-02-11
 updatedDate: 2023-02-27
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2018/07/euthanasie-en-begrafenisverzekering.jpg"
 metaTitle: "Hoe Werkt De Begrafenisverzekering In Het Geval Van Euthanasie?"
 ---
 

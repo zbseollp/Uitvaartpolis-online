@@ -5,6 +5,7 @@ pubDate: 2020-04-04
 updatedDate: 2022-08-25
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2019/08/natuurbegraafplaats-featured-image.jpg"
 metaTitle: "Natuurbegraafplaats In Nederland | Kom Hier Achter Alle Mogelijkheden!"
 ---
 

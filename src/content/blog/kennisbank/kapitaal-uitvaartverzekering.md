@@ -5,6 +5,7 @@ pubDate: 2020-03-23
 updatedDate: 2022-04-14
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2018/08/kapitaal-uitvaartverzekering-1.jpg"
 metaTitle: "De Kapitaal Uitvaartverzekering, Hoe Werkt Het In 2026? | Lees de GIDS"
 ---
 

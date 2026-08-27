@@ -5,6 +5,7 @@ pubDate: 2024-08-17
 updatedDate: 2024-08-17
 author: "Jasper Jansen"
 categories: ["Blog"]
+image: "/wp-content/uploads/2024/05/ethereum-coin.jpg"
 metaTitle: "The DogePound: de unieke wereld van digitale hondenkunst - Uitvaartpolis-online.com"
 ---
 

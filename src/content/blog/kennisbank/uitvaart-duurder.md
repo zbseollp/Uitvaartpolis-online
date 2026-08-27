@@ -5,6 +5,7 @@ pubDate: 2021-04-12
 updatedDate: 2022-04-19
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2018/09/duurder-wordend-uitvaart.jpg"
 metaTitle: "Uitvaart Wordt Helaas Steeds Duurder In 2026 | Lees Nu Waardoor!"
 ---
 

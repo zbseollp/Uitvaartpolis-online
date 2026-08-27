@@ -5,6 +5,7 @@ pubDate: 2020-10-19
 updatedDate: 2022-04-20
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2020/07/social-media-na-overlijden.jpg"
 metaTitle: "Social Media Na Overlijden | Wat Te Doen? | Lees Alles Van A-Z!"
 ---
 

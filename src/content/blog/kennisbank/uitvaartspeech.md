@@ -5,6 +5,7 @@ pubDate: 2020-08-26
 updatedDate: 2022-10-24
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2018/09/uitvaartspeech-uitvaart.jpg"
 metaTitle: "De Uitvaartspeech, Waar Moet Je Op Letten? Lees Handige Tips & Tricks"
 ---
 

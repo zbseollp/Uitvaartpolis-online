@@ -5,6 +5,7 @@ pubDate: 2021-07-03
 updatedDate: 2022-06-28
 author: "Jasper Jansen"
 categories: ["Sterbegeldversicherung"]
+image: "/wp-content/uploads/2019/07/uitvaartverzekering-kind.jpg"
 metaTitle: "Sterbegeldversicherung für ein Kind abschließen (2022) | Uitvaartpolis-online.de"
 ---
 

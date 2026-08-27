@@ -5,6 +5,7 @@ pubDate: 2020-12-24
 updatedDate: 2022-08-25
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2021/12/32122a.jpg"
 ---
 
 Sommige dingen doe je dagelijks, andere wekelijks of maandelijks. Praten over verlies is wel even iets anders dan de boodschappen doen, een nieuwe auto kopen [of energie vergelijken](https://www.pricewise.nl/energie-vergelijken/). Zeker als je hierover praat met een kind. Gelukkig kan de [begrafenisondernemer](/begrafenisondernemer/) veel uit handen nemen en kun je jezelf richten op het verlies en je gezin. Daarnaast is het goed om het verlies en dood te bespreken met kinderen, juist als er geen overlijden speelt.

@@ -5,6 +5,7 @@ pubDate: 2021-02-28
 updatedDate: 2022-04-13
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2020/06/uitkering-levensverzekering-afbeelding.jpg"
 metaTitle: "Uitkering Levensverzekering | Lees Hier Alles Van A-Z!"
 ---
 

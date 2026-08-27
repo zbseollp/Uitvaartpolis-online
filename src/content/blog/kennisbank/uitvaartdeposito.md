@@ -5,6 +5,7 @@ pubDate: 2018-12-21
 updatedDate: 2022-04-20
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2019/08/uitvaartdeposito.jpg"
 metaTitle: "Wat Is Een Uitvaartdeposito? Lees Onze Gids En Bekijk De Mogelijkheden"
 ---
 

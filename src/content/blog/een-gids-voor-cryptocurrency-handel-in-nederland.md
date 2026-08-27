@@ -5,6 +5,7 @@ pubDate: 2024-04-05
 updatedDate: 2024-04-05
 author: "Jasper Jansen"
 categories: ["Blog"]
+image: "/wp-content/uploads/2024/04/bybit-nederland.jpg"
 metaTitle: "Een Gids voor Cryptocurrency-handel in Nederland - Uitvaartpolis-online.com"
 ---
 

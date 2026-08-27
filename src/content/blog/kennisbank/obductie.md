@@ -5,6 +5,7 @@ pubDate: 2020-11-17
 updatedDate: 2022-04-14
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2020/05/obductie-betekenis.jpg"
 metaTitle: "Kiezen Voor Obductie | Alles Wat Je Moet Weten Overzichtelijk Bij Elkaar"
 ---
 

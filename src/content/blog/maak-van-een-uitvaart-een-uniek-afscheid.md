@@ -5,6 +5,7 @@ pubDate: 2023-10-04
 updatedDate: 2023-10-04
 author: "Jasper Jansen"
 categories: ["Blog"]
+image: "/wp-content/uploads/2023/10/6881.jpg"
 metaTitle: "Maak van een uitvaart een uniek afscheid - Uitvaartpolis-online.com"
 ---
 

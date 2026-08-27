@@ -5,6 +5,7 @@ pubDate: 2021-04-20
 updatedDate: 2023-02-27
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2020/04/pimpmygrave.jpg"
 metaTitle: "Pimp My Grave, Geslaagde Campagne, Maar Toch Kritiek, Verandering Naam"
 ---
 

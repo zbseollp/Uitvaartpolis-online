@@ -5,6 +5,7 @@ pubDate: 2021-05-25
 updatedDate: 2023-02-27
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2018/01/begrafenispolis.jpg"
 metaTitle: "Begrafenispolis in 2026 | Voorkom Onvolledige Dekking, Lees Het Door!"
 ---
 

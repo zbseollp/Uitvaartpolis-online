@@ -5,6 +5,7 @@ pubDate: 2021-03-28
 updatedDate: 2022-06-28
 author: "Jasper Jansen"
 categories: ["Sterbegeldversicherung"]
+image: "/wp-content/uploads/2022/02/sterbegeldversicherung-fur-familien-und-ehepartner.jpg"
 metaTitle: "Sterbegeldversicherung Für Familien Und Ehepartner (2022) | Uitvaartpolis-online.de"
 ---
 

@@ -5,6 +5,7 @@ pubDate: 2024-10-09
 updatedDate: 2024-10-09
 author: "Jasper Jansen"
 categories: ["Blog"]
+image: "/wp-content/uploads/2024/10/pexels-mario-wallner-107470762-9634475.jpg"
 metaTitle: "Uitvaartzorg Haarlem: een complete gids voor nabestaanden - Uitvaartpolis-online.com"
 ---
 

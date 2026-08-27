@@ -5,6 +5,7 @@ pubDate: 2022-06-23
 updatedDate: 2022-06-23
 author: "Jasper Jansen"
 categories: ["Reviews"]
+image: "/wp-content/uploads/2022/03/ing-levensverzekering.jpg"
 metaTitle: "ING levensverzekering | Premies, Dekkingen, ORV Afsluiten | Lees Het Nu!"
 ---
 

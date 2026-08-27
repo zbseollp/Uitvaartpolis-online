@@ -5,6 +5,7 @@ pubDate: 2019-05-18
 updatedDate: 2022-07-01
 author: "Jasper Jansen"
 categories: ["Begrafenisondernemer"]
+image: "/wp-content/uploads/2019/08/begrafenisondernemer-haarlem.jpg"
 metaTitle: "Begrafenisondernemer Haarlem Nodig? | Vergelijk Gratis 5 Offertes!"
 compare: true
 ---

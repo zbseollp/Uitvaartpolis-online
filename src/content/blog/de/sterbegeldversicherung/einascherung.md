@@ -5,6 +5,7 @@ pubDate: 2022-02-17
 updatedDate: 2023-02-28
 author: "Jasper Jansen"
 categories: ["Sterbegeldversicherung"]
+image: "/wp-content/uploads/2022/02/einascherung-bei-einer-beerdigung.jpg"
 metaTitle: "Einäscherung während einer Beerdigung (2022) | Uitvaartpolis-online.de"
 ---
 

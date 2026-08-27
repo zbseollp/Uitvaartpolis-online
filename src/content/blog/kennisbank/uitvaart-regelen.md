@@ -5,6 +5,7 @@ pubDate: 2021-02-17
 updatedDate: 2022-08-01
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2018/07/featurede-imgae-uitvaart-copy.jpg"
 metaTitle: "Uitvaart Regelen in 2026 | Bekijk Direct Wat Er Allemaal Bij Komt Kijken"
 ---
 

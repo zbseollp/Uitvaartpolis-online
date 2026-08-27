@@ -5,6 +5,7 @@ pubDate: 2022-09-01
 updatedDate: 2022-09-01
 author: "Jasper Jansen"
 categories: ["Sterbegeldversicherung"]
+image: "/wp-content/uploads/2022/03/rasselstein-logo.jpg"
 metaTitle: "Sterbegeldversicherung Rasselstein - Uitvaartpolis-online.com"
 ---
 

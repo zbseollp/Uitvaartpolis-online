@@ -5,6 +5,7 @@ pubDate: 2021-11-07
 updatedDate: 2022-11-10
 author: "Jasper Jansen"
 categories: ["Sterbegeldversicherung"]
+image: "/wp-content/uploads/2022/02/sterbegeldversicherung-pfandbar.jpg"
 metaTitle: "Sterbegeldversicherung Pfändbar (2022) | Uitvaartpolis-online.de"
 ---
 

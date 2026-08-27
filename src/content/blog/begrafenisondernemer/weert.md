@@ -5,6 +5,7 @@ pubDate: 2022-05-03
 updatedDate: 2022-07-01
 author: "Jasper Jansen"
 categories: ["Begrafenisondernemer"]
+image: "/wp-content/uploads/2019/08/uitvaartondernemer-weert.jpg"
 metaTitle: "Begrafenisondernemer Weert Nodig? | Vergelijk Gratis 5 Offertes!"
 compare: true
 ---

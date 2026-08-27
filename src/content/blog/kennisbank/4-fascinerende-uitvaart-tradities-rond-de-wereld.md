@@ -5,6 +5,7 @@ pubDate: 2020-10-18
 updatedDate: 2022-04-21
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2021/12/32122a.jpg"
 ---
 
 Uitvaart tradities zijn diepgeworteld in verschillende culturen over de hele wereld. Ze weerspiegelen enorm gevarieerde tradities en uiteenlopende geloofsovertuigingen en waarden. Begrafenisrituelen tonen respect voor de overledene en omvatten diverse ceremonies die volgens mensen nodig zijn om ervoor te zorgen dat mensen hun volgende leven tegemoet zullen gaan. Hier volgen enkele unieke begrafenistradities die ons minder bekend in de oren zullen klinken.

@@ -5,6 +5,7 @@ pubDate: 2020-02-18
 updatedDate: 2025-07-01
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2020/07/Overlijdensrisicoverzekering-overgewicht-scaled.jpg"
 metaTitle: "Overlijdensrisicoverzekering Overgewicht | Lees Alles Van A-Z!"
 ---
 

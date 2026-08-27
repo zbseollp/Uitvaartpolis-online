@@ -5,6 +5,7 @@ pubDate: 2019-12-04
 updatedDate: 2023-02-27
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2019/08/overlijdensrisicoverzekering-verplicht-afbeelding.jpg"
 metaTitle: "Overlijdensrisicoverzekering Verplicht In 2026? | Kom Er Nu Direct Achter!"
 ---
 

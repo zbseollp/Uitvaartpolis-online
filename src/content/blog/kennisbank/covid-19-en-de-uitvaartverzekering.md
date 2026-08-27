@@ -4,6 +4,7 @@ description: "In maart 2020 werden de eersten besmettingen van het coronavirus v
 pubDate: 2023-01-19
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2023/01/covid-19-uitvaartverzekering.jpg"
 metaTitle: "COVID-19 en de Uitvaartverzekering - Uitvaartpolis-online.com"
 ---
 

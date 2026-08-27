@@ -5,6 +5,7 @@ pubDate: 2023-12-16
 updatedDate: 2023-12-16
 author: "Jasper Jansen"
 categories: ["Blog"]
+image: "/wp-content/uploads/2023/12/pexels-anna-nekrashevich-6801649.jpg"
 metaTitle: "Veelgestelde vragen over uitvaartverzekeringen beantwoord - Uitvaartpolis-online.com"
 ---
 

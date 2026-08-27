@@ -5,6 +5,7 @@ pubDate: 2022-08-04
 updatedDate: 2022-09-01
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2022/08/rouwadvertentie-maken.jpg"
 metaTitle: "Wat Kost Een Crematie In 2026? | Bereken de kosten direct in 3 minuten"
 ---
 

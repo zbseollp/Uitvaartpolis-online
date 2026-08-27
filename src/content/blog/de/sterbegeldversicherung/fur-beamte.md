@@ -5,6 +5,7 @@ pubDate: 2022-11-07
 updatedDate: 2022-11-10
 author: "Jasper Jansen"
 categories: ["Sterbegeldversicherung"]
+image: "/wp-content/uploads/2021/04/sterbegeldversicherung-fur-beamte.jpg"
 metaTitle: "Sterbegeldversicherung für Beamte (2022) | Uitvaartpolis-online.de"
 ---
 

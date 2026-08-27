@@ -5,6 +5,7 @@ pubDate: 2019-06-18
 updatedDate: 2022-04-20
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2019/08/advieskosten-intermediair-lager-featured-image.jpg"
 metaTitle: "Advieskosten Intermediair Voor Uitvaartverzekeringen Fors Gedaald"
 ---
 

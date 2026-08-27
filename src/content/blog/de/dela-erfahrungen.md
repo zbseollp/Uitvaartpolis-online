@@ -5,6 +5,7 @@ pubDate: 2023-09-15
 updatedDate: 2023-09-15
 author: "Jasper Jansen"
 categories: ["Sterbegeldversicherung"]
+image: "/wp-content/uploads/2022/05/dela-fureinander-logo.jpg"
 metaTitle: "Sterbegeldversicherung DELA (2022) | Uitvaartpolis-online.de"
 ---
 

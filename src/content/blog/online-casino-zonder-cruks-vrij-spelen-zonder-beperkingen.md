@@ -5,6 +5,7 @@ pubDate: 2025-03-19
 updatedDate: 2025-03-19
 author: "Jasper Jansen"
 categories: ["Blog"]
+image: "/wp-content/uploads/2025/03/pexels-naimbic-3894215.jpg"
 metaTitle: "Online Casino Zonder Cruks: Vrij Spelen Zonder Beperkingen - Uitvaartpolis-online.com"
 ---
 

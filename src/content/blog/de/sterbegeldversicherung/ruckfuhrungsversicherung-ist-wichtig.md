@@ -5,6 +5,7 @@ pubDate: 2022-02-26
 updatedDate: 2022-11-10
 author: "Jasper Jansen"
 categories: ["Sterbegeldversicherung"]
+image: "/wp-content/uploads/2022/02/ruckfuhrung-gekennzeichnet.jpg"
 metaTitle: "Eine Rückführungsversicherung ist enorm wichtig – finden Sie heraus, warum! (2022) | Uitvaartpolis-online.de"
 ---
 

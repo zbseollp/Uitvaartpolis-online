@@ -5,6 +5,7 @@ pubDate: 2021-02-27
 updatedDate: 2022-06-28
 author: "Jasper Jansen"
 categories: ["Sterbegeldversicherung"]
+image: "/wp-content/uploads/2022/02/trauerrede.jpg"
 metaTitle: "Trauerrede (2022) | Uitvaartpolis-online.de"
 ---
 

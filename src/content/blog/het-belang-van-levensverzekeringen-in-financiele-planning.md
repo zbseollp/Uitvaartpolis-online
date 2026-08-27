@@ -5,6 +5,7 @@ pubDate: 2024-03-14
 updatedDate: 2024-03-14
 author: "Jasper Jansen"
 categories: ["Blog"]
+image: "/wp-content/uploads/2023/12/pexels-anna-nekrashevich-6801649.jpg"
 metaTitle: "Het belang van levensverzekeringen in financiële planning - Uitvaartpolis-online.com"
 ---
 

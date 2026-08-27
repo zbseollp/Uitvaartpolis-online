@@ -5,6 +5,7 @@ pubDate: 2022-08-01
 updatedDate: 2022-09-01
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2022/08/begraafplaatsen-1.jpg"
 metaTitle: "Begraafplaatsen in Nederland - Uitvaartpolis-online.com"
 ---
 

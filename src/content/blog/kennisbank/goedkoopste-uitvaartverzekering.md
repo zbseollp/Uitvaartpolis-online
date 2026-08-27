@@ -5,6 +5,7 @@ pubDate: 2020-05-06
 updatedDate: 2023-02-27
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2018/01/goedkoopste-uitvaartverzekering-2.jpg"
 metaTitle: "Wat Is De Goedkoopste Uitvaartverzekering In 2026? | Lees De Gids!"
 ---
 

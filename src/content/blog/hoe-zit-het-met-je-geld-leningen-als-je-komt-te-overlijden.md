@@ -5,6 +5,7 @@ pubDate: 2024-02-22
 updatedDate: 2024-02-22
 author: "Jasper Jansen"
 categories: ["Blog"]
+image: "/wp-content/uploads/2024/02/pexels-pixabay-302083.jpg"
 metaTitle: "Hoe zit het met je geld lening(en) als je komt te overlijden? - Uitvaartpolis-online.com"
 ---
 

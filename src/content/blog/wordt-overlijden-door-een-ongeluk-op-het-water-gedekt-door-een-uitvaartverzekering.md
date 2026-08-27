@@ -5,6 +5,7 @@ pubDate: 2023-03-13
 updatedDate: 2023-03-13
 author: "Jasper Jansen"
 categories: ["Blog"]
+image: "/wp-content/uploads/2023/03/overlijden-op-het-water-uitvaartverzekering.jpg"
 metaTitle: "Wordt overlijden door een ongeluk op het water gedekt door een uitvaartverzekering? - Uitvaartpolis-online.com"
 ---
 

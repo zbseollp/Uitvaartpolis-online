@@ -5,6 +5,7 @@ pubDate: 2022-06-29
 updatedDate: 2022-06-29
 author: "Jasper Jansen"
 categories: ["Sterbegeldversicherung"]
+image: "/wp-content/uploads/2022/03/tk-techniker-krankenkasse-logo.jpg"
 metaTitle: "Sterbegeldversicherung TK Techniker Krankenkasse (2022) | Uitvaartpolis-online.de"
 ---
 

@@ -5,6 +5,7 @@ pubDate: 2019-08-04
 updatedDate: 2025-07-01
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2020/07/geld-opnemen-na-overlijden-strafbaar.jpg"
 metaTitle: "Geld Opnemen Na Overlijden Strafbaar? | Lees Alles Van A-Z"
 ---
 

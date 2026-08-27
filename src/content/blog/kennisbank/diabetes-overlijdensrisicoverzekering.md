@@ -5,6 +5,7 @@ pubDate: 2021-02-05
 updatedDate: 2022-04-15
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2019/08/diabetes-en-overlijdensrisicoverzekering.jpg"
 metaTitle: "Hoe Zit Het Precies Met De Overlijdensrisicoverzekering En Diabetes?"
 ---
 

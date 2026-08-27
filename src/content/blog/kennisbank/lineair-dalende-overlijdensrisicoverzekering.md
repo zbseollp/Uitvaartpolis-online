@@ -5,6 +5,7 @@ pubDate: 2020-12-29
 updatedDate: 2022-04-15
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2019/08/lineair-dalende-overlijdensrisicoverzekering.jpg"
 metaTitle: "Wat Is De Lineair Dalende Overlijdensrisicoverzekering Precies?"
 ---
 

@@ -5,6 +5,7 @@ pubDate: 2019-12-18
 updatedDate: 2023-02-27
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2019/08/as-verstrooien-featured-image.jpg"
 metaTitle: "As Verstrooien In Nederland | Asbestemmingen & Regels Over Uitstrooien"
 ---
 

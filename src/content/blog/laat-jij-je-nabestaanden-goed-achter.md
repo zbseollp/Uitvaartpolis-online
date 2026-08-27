@@ -5,6 +5,7 @@ pubDate: 2026-02-23
 updatedDate: 2026-02-23
 author: "Jasper Jansen"
 categories: ["Blog"]
+image: "/wp-content/uploads/2024/06/pexels-life-of-pix-7974.jpg"
 metaTitle: "Laat jij je nabestaanden goed achter? - Uitvaartpolis-online.com"
 ---
 

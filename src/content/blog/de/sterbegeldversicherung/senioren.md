@@ -5,6 +5,7 @@ pubDate: 2022-02-01
 updatedDate: 2022-06-27
 author: "Jasper Jansen"
 categories: ["Sterbegeldversicherung"]
+image: "/wp-content/uploads/2018/08/senioren.jpg"
 metaTitle: "Sterbegeldversicherung für ältere Menschen (2022) | Uitvaartpolis-online.de"
 ---
 

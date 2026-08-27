@@ -5,6 +5,7 @@ pubDate: 2021-05-10
 updatedDate: 2022-04-15
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2019/08/rabobank-compenseert-te-hoge-overlijdensrisicoverzekering-premie-featured-image.jpg"
 metaTitle: "Vergoeding Rabobank Voor Te Hoge Overlijdensrisicoverzekering Premie"
 ---
 

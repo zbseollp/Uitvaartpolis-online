@@ -5,6 +5,7 @@ pubDate: 2021-06-25
 updatedDate: 2023-02-27
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2018/04/begrafenis-tijdens-een-uitvaart-overledene.jpg"
 metaTitle: "Begraven in 2026? | Waar Moet Je Rekening Mee Houden Tegenwoordig?"
 ---
 

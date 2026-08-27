@@ -5,6 +5,7 @@ pubDate: 2021-11-07
 updatedDate: 2022-06-27
 author: "Jasper Jansen"
 categories: ["Sterbegeldversicherung"]
+image: "/wp-content/uploads/2022/02/sterbegeldversicherung-spezial.jpg"
 metaTitle: "Sterbegeldversicherung Spezial (2022) | Uitvaartpolis-online.de"
 ---
 

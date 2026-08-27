@@ -5,6 +5,7 @@ pubDate: 2024-04-21
 updatedDate: 2024-04-21
 author: "Jasper Jansen"
 categories: ["Blog"]
+image: "/wp-content/uploads/2024/03/hoe-koop-ik-cryptomunten-1.jpg"
 metaTitle: "De impact van NFT's op cryptocurrency wallets - Uitvaartpolis-online.com"
 ---
 

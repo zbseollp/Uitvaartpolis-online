@@ -5,6 +5,7 @@ pubDate: 2021-08-27
 updatedDate: 2022-06-28
 author: "Jasper Jansen"
 categories: ["Sterbegeldversicherung"]
+image: "/wp-content/uploads/2021/08/socialversicherung-sterbegeld.jpg"
 metaTitle: "Sterbegeldversicherung Und Sozialversicherung (2022) | Uitvaartpolis-online.de"
 ---
 

@@ -5,6 +5,7 @@ pubDate: 2020-01-09
 updatedDate: 2022-04-21
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2019/08/schouwarts-afbeelding.jpg"
 metaTitle: "Wat Is Een Schouwarts? Alles van A-Z! | Mis Deze Informatie Niet in 2026"
 ---
 

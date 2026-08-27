@@ -5,6 +5,7 @@ pubDate: 2022-02-15
 updatedDate: 2022-06-27
 author: "Jasper Jansen"
 categories: ["Sterbegeldversicherung"]
+image: "/wp-content/uploads/2022/02/elektrische-einascherung.jpg"
 metaTitle: "Elektrische Einascherung | Uitvaartpolis-online.com"
 ---
 

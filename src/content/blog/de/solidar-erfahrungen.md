@@ -5,6 +5,7 @@ pubDate: 2023-09-15
 updatedDate: 2023-09-15
 author: "Jasper Jansen"
 categories: ["Sterbegeldversicherung"]
+image: "/wp-content/uploads/2022/03/solidar-logo.jpg"
 metaTitle: "SOLIDAR Sterbegeldversicherung - Uitvaartpolis-online.com"
 ---
 

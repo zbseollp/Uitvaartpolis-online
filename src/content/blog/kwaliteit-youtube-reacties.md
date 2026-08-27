@@ -5,6 +5,7 @@ pubDate: 2024-03-29
 updatedDate: 2024-03-29
 author: "Jasper Jansen"
 categories: ["Blog"]
+image: "/wp-content/uploads/2024/03/youtube-3.png"
 metaTitle: "Het belang van kwaliteit in YouTube reacties - Uitvaartpolis-online.com"
 ---
 

@@ -5,6 +5,7 @@ pubDate: 2020-04-28
 updatedDate: 2023-02-27
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2019/08/urn-kopen-featured-image.jpg"
 metaTitle: "Urn Kopen In 2026? Kom Achter Alle Mogelijkheden & Kies De Beste!"
 ---
 

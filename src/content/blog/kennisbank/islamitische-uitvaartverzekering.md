@@ -5,6 +5,7 @@ pubDate: 2020-07-28
 updatedDate: 2023-02-27
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2020/03/islamitische-uitvaartverzekering.jpg"
 metaTitle: "Islamitische Uitvaartverzekering, Hoe Werkt Het In 2026? | Lees De Gids"
 ---
 

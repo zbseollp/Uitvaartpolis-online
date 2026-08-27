@@ -5,6 +5,7 @@ pubDate: 2019-07-30
 updatedDate: 2022-04-12
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2019/08/gemeente-begrafenis-featured-image.jpg"
 metaTitle: "Gemeente Begrafenis | Wat Is Het & Wat Zijn De Mogelijkheden? Kijk NU!"
 ---
 

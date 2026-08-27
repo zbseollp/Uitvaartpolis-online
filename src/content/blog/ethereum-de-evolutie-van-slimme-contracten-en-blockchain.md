@@ -5,6 +5,7 @@ pubDate: 2024-08-10
 updatedDate: 2024-08-10
 author: "Jasper Jansen"
 categories: ["Blog"]
+image: "/wp-content/uploads/2024/05/staking-bitvavo.jpg"
 metaTitle: "Ethereum: de evolutie van slimme contracten en blockchain - Uitvaartpolis-online.com"
 ---
 

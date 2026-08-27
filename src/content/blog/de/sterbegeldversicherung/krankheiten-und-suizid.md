@@ -5,6 +5,7 @@ pubDate: 2022-01-31
 updatedDate: 2022-06-27
 author: "Jasper Jansen"
 categories: ["Sterbegeldversicherung"]
+image: "/wp-content/uploads/2022/02/sterbegeldversicherung-krankheiten-und-suizid.jpg"
 metaTitle: "Sterbegeldversicherung Krankheiten und Suizid (2022) | Uitvaartpolis-online.de"
 ---
 

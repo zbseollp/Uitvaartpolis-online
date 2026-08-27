@@ -5,6 +5,7 @@ pubDate: 2022-06-28
 updatedDate: 2022-06-28
 author: "Jasper Jansen"
 categories: ["Reviews"]
+image: "/wp-content/uploads/2022/03/centraal-beheer-overlijdensrisicoverzekering.png"
 metaTitle: "Centraal Beheer Overlijdensrisicoverzekering Review 2026 | Lees GIDS!"
 ---
 

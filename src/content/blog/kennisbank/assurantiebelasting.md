@@ -5,6 +5,7 @@ pubDate: 2021-05-14
 updatedDate: 2022-04-15
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2020/08/Assurantiebelasting.jpg"
 metaTitle: "Assurantiebelasting | Wat Houdt Het Precies In? | Lees Alles Van A-Z"
 ---
 

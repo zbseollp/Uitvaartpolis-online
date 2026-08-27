@@ -5,6 +5,7 @@ pubDate: 2019-04-01
 updatedDate: 2022-04-19
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2019/08/donorcodicil.jpg"
 metaTitle: "Wat Is Het Donorcodicil En Heb Je Die Nodig Met De Nieuwe Donorwet"
 ---
 

@@ -5,6 +5,7 @@ pubDate: 2019-12-25
 updatedDate: 2022-04-21
 author: "Jasper Jansen"
 categories: ["Kennisbank"]
+image: "/wp-content/uploads/2020/06/overleden-personen-zoeken.jpg"
 metaTitle: "Wat is Menselinq? | Alle Informatie Betreft Overleden Personen Zoeken"
 ---
 
