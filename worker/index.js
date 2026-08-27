@@ -13,15 +13,19 @@
  */
 const CANONICAL = 'https://uitvaartpolis-online.com';
 const SITEMAP = /^\/sitemap[\w.-]*\.xml$/;
+// /sitemap.xml is het pad dat de meeste tools als eerste proberen; die serveren
+// we hier als alias van de sitemap-index.
+const ALIAS = { '/sitemap.xml': '/sitemap-index.xml' };
 
 export default {
   async fetch(request, env) {
     const url = new URL(request.url);
-    if (!SITEMAP.test(url.pathname)) return env.ASSETS.fetch(request);
+    if (!SITEMAP.test(url.pathname) && !ALIAS[url.pathname]) return env.ASSETS.fetch(request);
 
     // Vraag het bronbestand zonder conditionele headers op, zodat we altijd een
     // volledige body krijgen om te herschrijven (nooit een kaal 304'tje).
-    const assetRequest = new Request(request.url, { method: 'GET', headers: {} });
+    const assetPath = ALIAS[url.pathname] || url.pathname;
+    const assetRequest = new Request(new URL(assetPath, url).toString(), { method: 'GET', headers: {} });
     const response = await env.ASSETS.fetch(assetRequest);
     if (!response.ok) return response;
 
