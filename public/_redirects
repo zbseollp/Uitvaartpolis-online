@@ -28,3 +28,11 @@
 /tag/uitvaartverzekering/                        /                                                          301
 /de/tag/bestattungsvorsorge/                     /de/erfahrungen/                                           301
 /de/tag/sterbegeldversicherung/                  /de/erfahrungen/                                           301
+
+# Oude Yoast-sitemappaden naar de nieuwe Astro-sitemap
+/sitemap_index.xml   /sitemap-index.xml  301
+/post-sitemap.xml              /sitemap-index.xml  301
+/page-sitemap.xml              /sitemap-index.xml  301
+/reviews-sitemap.xml           /sitemap-index.xml  301
+/de_compare_packages-sitemap.xml /sitemap-index.xml  301
+/de_funeral_insurance-sitemap.xml  /sitemap-index.xml  301
