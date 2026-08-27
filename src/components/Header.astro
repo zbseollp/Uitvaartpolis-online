@@ -1,0 +1,40 @@
+---
+const { pathname } = Astro.url;
+const nav = [
+  { href: '/', label: 'Uitvaartverzekering' },
+  { href: '/begrafenisverzekering/', label: 'Begrafenisverzekering' },
+  { href: '/begrafenis/', label: 'Begrafenis' },
+  { href: '/begrafenisondernemer/', label: 'Begrafenisondernemer' },
+  { href: '/overlijdensrisicoverzekering/', label: 'ORV' },
+  { href: '/reviews/', label: 'Reviews' },
+  { href: '/kennisbank/', label: 'Kennisbank' },
+  { href: '/blog/', label: 'Blog' },
+];
+---
+<header class="site-header">
+  <div class="wrap hdr">
+    <a class="logo" href="/" aria-label="Uitvaartpolis-online.com">
+      <img src="/wp-content/uploads/2022/06/logo-uitvaartpolis-online-1-copy-1024x128.jpg" alt="Uitvaartpolis-online.com" width="1024" height="128" />
+    </a>
+    <button class="burger" id="burger" aria-label="Menu openen" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+    <nav id="nav">
+      {nav.map((n) => (
+        <a href={n.href} class={pathname === n.href ? 'active' : ''}>{n.label}</a>
+      ))}
+      <a class="btn" href="/#vergelijken">Vergelijken</a>
+    </nav>
+  </div>
+</header>
+<script is:inline>
+  (function () {
+    var b = document.getElementById('burger');
+    var n = document.getElementById('nav');
+    if (!b || !n) return;
+    b.addEventListener('click', function () {
+      var open = n.classList.toggle('open');
+      b.setAttribute('aria-expanded', String(open));
+    });
+  })();
+</script>

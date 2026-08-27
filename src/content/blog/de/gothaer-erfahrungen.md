@@ -1,0 +1,47 @@
+---
+title: "Sterbegeldversicherung Gothaer"
+description: "Möchten Sie alles wissen über die Sterbegeldversicherung Gothaer? Kein Problem, bei uitvaartpolis-online bieten wir Ihnen ratgeber, preisvergleich und tipps."
+pubDate: 2022-06-29
+updatedDate: 2022-06-29
+author: "Jasper Jansen"
+categories: ["Sterbegeldversicherung"]
+metaTitle: "Sterbegeldversicherung Gothaer (2022) | Uitvaartpolis-online.de"
+---
+
+Sie möchten mehr über die Gothaer Sterbegeldversicherung erfahren oder die Angebote direkt vergleichen? Lesen Sie unsere ausführliche Bewertung und die Erfahrungen anderer Kunden oder nutzen Sie den Vergleichsrechner!
+
+[Vergleichen Sie mit anderen](/de/gothaer-erfahrungen/#vergelijken) ![sterbegeldversicherung gothaer](/wp-content/uploads/2022/03/gothaer-logo.jpg)
+
+**Postadresse**
+
+Arnoldiplatz 1
+
+50969
+
+Köln
+
+**Telefoonnummer** 0221 308-91133 **Website**
+
+https://www.gothaer.de
+
+## Erfahren Sie alles über die Gothaer sterbegeldversicherung
+
+Die Gothaer Sterbegeldversicherung zahlt im Todesfall der versicherten Person die Versicherungssumme an die Hinterbliebenen aus. Wir haben unsere Hausaufgaben gemacht und alles Wissenswerte rund um die Gothaer Sterbegeldversicherung gefunden.
+
+Die Gothaer besteht nun seit 200 Jahren. Ernst Wilhelm Arnoldi begründet das Versicherungsgeschäft. In Deutschland gilt der renommierte Gothaer als Versicherungspionier.
+
+Verifizierte Bewertungen
+
+Bewertungen stammen von verifizierten Verbrauchern
+
+Haben Sie gute Erfahrungen mit dieser Bestattungsversicherung gemacht? Und möchten Sie es mit anderen teilen? Dann hinterlassen Sie hier eine Bewertung.
+
+SCHRIJF REVIEW
+
+Schrijf Review
+
+#### BESTBEWERTET
+
+1.[Allianz Sterbegeldversicherung](/de/allianz-erfahrungen/)4.8/52.[Sterbegeldversicherung DEVK](/de/devk-erfahrungen/)4.8/53.[Sterbegeldversicherung HUK](/de/huk-erfahrungen/)4.8/54.[SOLIDAR Sterbegeldversicherung](/de/solidar-erfahrungen/)4.7/55.[Barmenia Sterbegeldversicherung](/de/barmenia-erfahrungen/)4.7/5 [VERGLEICHEN](#vergelijken) [Zeig mehr](/de/erfahrungen/)
+
+Letzte Aktualisierung am 8. März 2022

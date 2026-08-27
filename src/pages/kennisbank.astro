@@ -1,0 +1,12 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import html from '../html/kennisbank.html?raw';
+---
+<PageLayout
+  title="Alles rondom een uitvaart"
+  metaTitle="Kennisbank - Uitvaartpolis-online.com"
+  description="Populaire artikelen"
+  
+>
+  <Fragment set:html={html} />
+</PageLayout>

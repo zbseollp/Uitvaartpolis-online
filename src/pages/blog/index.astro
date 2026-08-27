@@ -1,0 +1,27 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PostGrid from '../../components/PostGrid.astro';
+
+const posts = (await getCollection('blog'))
+  .filter((p) => (p.data.categories ?? []).includes('Blog'))
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+---
+
+<BaseLayout
+  title="Blog over uitvaart en uitvaartverzekeringen | Uitvaartpolis-online.com"
+  description="Nieuws, achtergrond en praktische tips over uitvaarten, uitvaartverzekeringen en het regelen van een afscheid."
+>
+  <section class="page-hero">
+    <div class="wrap">
+      <h1>Blog</h1>
+      <p>{posts.length} artikelen over uitvaarten, verzekeringen en alles wat daarbij komt kijken. Meest recente eerst.</p>
+    </div>
+  </section>
+
+  <section>
+    <div class="wrap">
+      <PostGrid posts={posts} />
+    </div>
+  </section>
+</BaseLayout>

@@ -1,0 +1,60 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+const reviews = (await getCollection('blog'))
+  .filter((p) => p.id.startsWith('reviews/'))
+  .sort((a, b) => a.data.title.localeCompare(b.data.title, 'nl'));
+
+const groups = [
+  { key: 'uitvaartverzekering', label: 'Uitvaartverzekeringen' },
+  { key: 'begrafenisverzekering', label: 'Begrafenisverzekeringen' },
+  { key: 'overlijdensrisicoverzekering', label: 'Overlijdensrisicoverzekeringen' },
+  { key: 'levensverzekering', label: 'Levensverzekeringen' },
+];
+const grouped = groups.map((g) => ({ ...g, items: reviews.filter((r) => r.id.includes(g.key)) }));
+const rest = reviews.filter((r) => !groups.some((g) => r.id.includes(g.key)));
+---
+
+<BaseLayout
+  title="Reviews & ervaringen uitvaartverzekeraars | Uitvaartpolis-online.com"
+  description="Alle uitvaartverzekeraars, begrafenisverzekeraars en ORV-aanbieders beoordeeld: premies, dekking, voorwaarden en ervaringen van klanten."
+>
+  <section class="page-hero">
+    <div class="wrap">
+      <h1>Reviews en ervaringen</h1>
+      <p>{reviews.length} verzekeraars beoordeeld op premie, dekking, voorwaarden en klantervaringen.</p>
+    </div>
+  </section>
+
+  <section>
+    <div class="wrap">
+      {grouped.filter((g) => g.items.length > 0).map((g) => (
+        <div style="margin-bottom:44px">
+          <h2 class="section-title">{g.label}</h2>
+          <p class="section-sub">{g.items.length} aanbieders beoordeeld.</p>
+          <div class="grid grid-3">
+            {g.items.map((r) => (
+              <a class="card" href={`/${r.id}/`}>
+                <h3>{r.data.title}</h3>
+                {r.data.description && <p>{r.data.description.slice(0, 120)}…</p>}
+              </a>
+            ))}
+          </div>
+        </div>
+      ))}
+      {rest.length > 0 && (
+        <div>
+          <h2 class="section-title">Overig</h2>
+          <div class="grid grid-3">
+            {rest.map((r) => (
+              <a class="card" href={`/${r.id}/`}>
+                <h3>{r.data.title}</h3>
+              </a>
+            ))}
+          </div>
+        </div>
+      )}
+    </div>
+  </section>
+</BaseLayout>

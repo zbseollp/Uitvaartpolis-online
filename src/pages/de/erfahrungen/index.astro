@@ -1,0 +1,33 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+
+const items = (await getCollection('blog'))
+  .filter((p) => p.id.startsWith('de/') && p.id.endsWith('-erfahrungen'))
+  .sort((a, b) => a.data.title.localeCompare(b.data.title, 'de'));
+---
+
+<BaseLayout
+  title="Sterbegeldversicherung Erfahrungen &amp; Bewertungen | Uitvaartpolis-online.com"
+  description="Alle Anbieter von Sterbegeldversicherungen im Überblick: Erfahrungen, Bewertungen, Beiträge und Leistungen im Vergleich."
+>
+  <section class="page-hero">
+    <div class="wrap">
+      <h1>Erfahrungen mit Sterbegeldversicherungen</h1>
+      <p>{items.length} Anbieter im Überblick &mdash; Erfahrungen, Leistungen und Beiträge auf einen Blick.</p>
+    </div>
+  </section>
+
+  <section>
+    <div class="wrap">
+      <div class="grid grid-3">
+        {items.map((r) => (
+          <a class="card" href={`/${r.id}/`}>
+            <h3>{r.data.title}</h3>
+            {r.data.description && <p>{r.data.description.slice(0, 120)}…</p>}
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+</BaseLayout>

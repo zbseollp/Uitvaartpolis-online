@@ -1,0 +1,49 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import CompareWidget from '../components/CompareWidget.astro';
+
+interface Props {
+  title: string;
+  metaTitle?: string;
+  description?: string;
+  intro?: string;
+  compare?: boolean;
+  wide?: boolean;
+}
+const { title, metaTitle, description = '', intro = '', compare = false, wide = false } = Astro.props;
+---
+<BaseLayout title={metaTitle || title} description={description}>
+  <section class="page-hero">
+    <div class="wrap">
+      <h1>{title}</h1>
+      {(intro || description) && <p>{intro || description}</p>}
+    </div>
+  </section>
+
+  <div class="article">
+    <div class={wide ? 'wrap' : 'wrap article-layout'}>
+      <article>
+        <div class="prose" style={wide ? 'max-width:none' : undefined}>
+          <slot />
+        </div>
+        {compare && <CompareWidget />}
+      </article>
+      {!wide && (
+        <aside class="aside">
+          <div class="box">
+            <h3>Direct vergelijken</h3>
+            <p>Zie in 3 minuten welke uitvaartverzekering het beste bij je situatie past.</p>
+            <a class="btn" href="/#vergelijken">Start vergelijking</a>
+          </div>
+          <div class="box">
+            <h3>Populair</h3>
+            <p style="margin-bottom:6px"><a href="/begrafenisverzekering/">Begrafenisverzekering</a></p>
+            <p style="margin-bottom:6px"><a href="/overlijdensrisicoverzekering/">Overlijdensrisicoverzekering</a></p>
+            <p style="margin-bottom:6px"><a href="/begrafenisondernemer/">Begrafenisondernemer zoeken</a></p>
+            <p style="margin-bottom:0"><a href="/kennisbank/">Naar de kennisbank</a></p>
+          </div>
+        </aside>
+      )}
+    </div>
+  </div>
+</BaseLayout>

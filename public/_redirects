@@ -1,0 +1,30 @@
+# Affiliate-uitgangen (exact dezelfde bestemmingen als de WordPress-bron)
+/dela-offer/                                https://lt45.net/c/?wi=293760&si=9087&li=1566773&ws=                                              302
+/dela-orv-offer/                            https://lt45.net/c/?si=9089&li=1420587&wi=293760&ws=                                             302
+/monuta-offer/                              https://dt51.net/c/?wi=293760&si=9073&li=1420664&ws=                                             302
+/begrafenisondernemer-offerte-offer/        https://rkn3.net/c/?si=14224&li=1612241&wi=293760&ws=&dl=uitvaart%2Foffertes-aanvragen           302
+/centraal-beheer-orv-offer/                 https://www.awin1.com/awclick.php?gid=317361&mid=8357&awinaffid=463269&linkid=1022041&clickref=  302
+/barmenia-sterbegeldversicherung-offer/     https://tools.financeads.net/zumanbieter.php?t=51660C45909055D&product=1309                      302
+/dela-sterbegeldversicherung-offer/         https://tools.financeads.net/zumanbieter.php?t=51660C310209055D&product=3840                     302
+/nuernberger-sterbegeldversicherung-offer/  https://tools.financeads.net/zumanbieter.php?t=51660C110009055D&product=3768                     302
+/solidar-sterbegeldversicherung-offer/      https://tools.financeads.net/zumanbieter.php?t=51660C87109055D&product=1212                      302
+
+# Bestaande 301-redirects van de bronsite, 1-op-1 overgenomen
+/uitvaartverzekering/                            /                                                          301
+/levensverzekering/                              /kennisbank/levensverzekering/                             301
+/kennisbank/dekking-begrafenisverzekering/       /begrafenisverzekering/                                    301
+/kennisbank/menselinq/                           /kennisbank/mensenlinq/                                    301
+/kennisbank/begrafenis/                          /begrafenis/                                               301
+/asr-levensverzekering/                          /reviews/asr-levensverzekering/                            301
+/lineair-dalende-overlijdensrisicoverzekering/   /kennisbank/lineair-dalende-overlijdensrisicoverzekering/  301
+/begrafenispolis/                                /kennisbank/begrafenispolis/                               301
+/balsemen/                                       /kennisbank/balsemen/                                      301
+/resomeren/                                      /kennisbank/resomeren/                                     301
+/uitvaartverzekering-en-ritueel-begeleiding/     /kennisbank/uitvaartverzekering-en-ritueel-begeleiding/    301
+/tag/begrafenis/                                 /begrafenis/                                               301
+/tag/begrafenisondernemer/                       /begrafenisondernemer/                                     301
+/tag/begrafenisverzekering/                      /begrafenisverzekering/                                    301
+/tag/overlijdensrisicoverzekering/               /overlijdensrisicoverzekering/                             301
+/tag/uitvaartverzekering/                        /                                                          301
+/de/tag/bestattungsvorsorge/                     /de/erfahrungen/                                           301
+/de/tag/sterbegeldversicherung/                  /de/erfahrungen/                                           301

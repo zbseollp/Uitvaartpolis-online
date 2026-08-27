@@ -1,0 +1,29 @@
+---
+/*
+ * Daisycon uitvaartverzekering-vergelijker.
+ * Exact dezelfde embed als op de WordPress-bron (mediaid 293760),
+ * alleen gebruikt op de pagina's waar de widget daar ook echt actief was.
+ */
+interface Props {
+  title?: string;
+  intro?: string;
+}
+const {
+  title = 'Vergelijk uitvaartverzekeringen',
+  intro = 'Vul je gegevens in en zie direct de premies, dekking en voorwaarden van alle aanbieders naast elkaar.',
+} = Astro.props;
+---
+<div class="compare-block" id="vergelijken">
+  <h2>{title}</h2>
+  <p>{intro}</p>
+  <link rel="stylesheet" type="text/css" href="https://developers.affiliateprogramma.eu/uitvaart/style.css" />
+  <div
+    class="daisyconUitvaartComperator"
+    data-buttoncolor="3498DB"
+    data-mediaid="293760"
+    data-subid=""
+    data-programs="all"
+  >
+  </div>
+  <script is:inline type="text/javascript" src="https://developers.affiliateprogramma.eu/uitvaart/general.js"></script>
+</div>

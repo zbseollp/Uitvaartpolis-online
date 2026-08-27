@@ -1,0 +1,12 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import html from '../html/over-ons.html?raw';
+---
+<PageLayout
+  title="Over onsWie zijn wij?"
+  metaTitle="Over ons | Uitvaartpolis-online.com"
+  description="Over ons Uitvaartpolis-online.com | Kies voor onafhankelijk vergelijken | Neem een kijkje in onze informatiegidsen, alles op één centrale plek"
+  
+>
+  <Fragment set:html={html} />
+</PageLayout>

@@ -1,0 +1,53 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import CompareWidget from '../components/CompareWidget.astro';
+import type { CollectionEntry } from 'astro:content';
+
+interface Props {
+  entry: CollectionEntry<'blog'>;
+}
+const { entry } = Astro.props;
+const { title, description, pubDate, updatedDate, author, categories = [], metaTitle, compare } = entry.data as any;
+const fmt = (d: Date) =>
+  new Intl.DateTimeFormat('nl-NL', { day: 'numeric', month: 'long', year: 'numeric' }).format(d);
+---
+<BaseLayout title={metaTitle || title} description={description}>
+  <section class="page-hero">
+    <div class="wrap">
+      {categories.length > 0 && <p style="margin:0 0 10px;font-size:.86rem;color:#9fb8c6">{categories.join(' &middot; ')}</p>}
+      <h1>{title}</h1>
+      {description && <p>{description}</p>}
+    </div>
+  </section>
+
+  <div class="article">
+    <div class="wrap article-layout">
+      <article>
+        <div class="meta-line">
+          {author && <span>Door <strong>{author}</strong></span>}
+          <span>Gepubliceerd {fmt(pubDate)}</span>
+          {updatedDate && <span>Laatste update {fmt(updatedDate)}</span>}
+        </div>
+        <div class="prose">
+          <slot />
+        </div>
+        {compare && <CompareWidget />}
+      </article>
+
+      <aside class="aside">
+        <div class="box">
+          <h3>Uitvaartverzekering vergelijken</h3>
+          <p>Bekijk in 3 minuten welke verzekeraar bij je past. 100% onafhankelijk en gratis.</p>
+          <a class="btn" href="/#vergelijken">Start vergelijking</a>
+        </div>
+        <div class="box">
+          <h3>Veelgelezen</h3>
+          <p style="margin-bottom:6px"><a href="/kennisbank/wat-kost-een-uitvaart/">Wat kost een uitvaart?</a></p>
+          <p style="margin-bottom:6px"><a href="/begrafenisverzekering/">Begrafenisverzekering vergelijken</a></p>
+          <p style="margin-bottom:6px"><a href="/overlijdensrisicoverzekering/">Overlijdensrisicoverzekering</a></p>
+          <p style="margin-bottom:0"><a href="/reviews/">Alle verzekeraars beoordeeld</a></p>
+        </div>
+      </aside>
+    </div>
+  </div>
+</BaseLayout>

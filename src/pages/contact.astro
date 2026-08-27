@@ -1,0 +1,12 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import html from '../html/contact.html?raw';
+---
+<PageLayout
+  title="ContactWij helpen je graag!"
+  metaTitle="Contact | Uitvaartpolis-online.com"
+  description="Contact Uitvaartpolis-online.com | Kies voor onafhankelijk vergelijken | Neem een kijkje in onze informatiegidsen, alles op één centrale plek"
+  
+>
+  <Fragment set:html={html} />
+</PageLayout>
