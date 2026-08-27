@@ -31,12 +31,10 @@ export default {
     headers.delete('content-length');
     headers.delete('last-modified');
     headers.set('content-type', 'application/xml; charset=utf-8');
-    headers.set('cache-control', 'public, max-age=0, must-revalidate');
-
-    // ETag host-specifiek maken: dezelfde bron, andere host = andere body.
-    const source = response.headers.get('etag');
-    if (source) headers.set('etag', `"${url.host}-${source.replace(/^W\/|"/g, '')}"`);
-    else headers.delete('etag');
+    // De body verschilt per host en wordt at-runtime samengesteld; laat geen
+    // enkele cachelaag (browser of edge) hier een kopie van vasthouden.
+    headers.set('cache-control', 'no-store, must-revalidate');
+    headers.delete('etag');
 
     return new Response(body, { status: 200, headers });
   },
