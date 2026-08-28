@@ -1,12 +1,86 @@
 ---
-import PageLayout from '../layouts/PageLayout.astro';
-import html from '../html/contact.html?raw';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import ContactForm from '../components/ContactForm.astro';
+
+const WEB3FORMS_KEY = '281f477d-7744-407d-9b6a-9b8d9c6abe3c';
+const TURNSTILE_SITEKEY = '0x4AAAAAAEeNMMRCFcpa21Wt';
 ---
-<PageLayout
-  title="ContactWij helpen je graag!"
-  metaTitle="Contact | Uitvaartpolis-online.com"
-  description="Contact Uitvaartpolis-online.com | Kies voor onafhankelijk vergelijken | Neem een kijkje in onze informatiegidsen, alles op één centrale plek"
-  
+<BaseLayout
+  title="Contact - Uitvaartpolis-online.com"
+  description="Heb je vragen, opmerkingen of wil je een afspraak maken? Vul het contactformulier in en wij nemen zo snel mogelijk contact met je op."
 >
-  <Fragment set:html={html} />
-</PageLayout>
+  <section class="page-hero">
+    <div class="wrap">
+      <p class="crumbs"><a href="/">Home</a><span>/</span><span style="opacity:1;color:#a9c1cf">Contact</span></p>
+      <h1>Contact &mdash; wij helpen je graag</h1>
+      <p>
+        Heb je vragen, opmerkingen of wil je een afspraak maken? Vul onderstaand contactformulier in en wij nemen zo
+        snel mogelijk contact met je op.
+      </p>
+    </div>
+  </section>
+
+  <div class="article">
+    <div class="wrap article-layout">
+      <article>
+        <div class="prose" style="margin-bottom:34px">
+          <h2 style="margin-top:0">Waarmee kunnen we je helpen?</h2>
+          <p>
+            Heb je een vraag, opmerking of goed advies? Wij horen ze graag, voor ons zijn ze van grote waarde. Maak
+            gebruik van het contactformulier hieronder of mail rechtstreeks naar
+            <a href="mailto:info@uitvaartpolis-online.com">info@uitvaartpolis-online.com</a>. Onze experts staan altijd
+            voor je klaar en je ontvangt binnen 24 uur een reactie.
+          </p>
+        </div>
+
+        <ContactForm
+          accessKey={WEB3FORMS_KEY}
+          turnstileSiteKey={TURNSTILE_SITEKEY}
+          subject="Nieuw bericht via Uitvaartpolis-online.com"
+          siteName="Uitvaartpolis-online.com"
+          salutation={true}
+        />
+
+        <div class="prose" style="margin-top:40px">
+          <h2>Wij luisteren graag naar je</h2>
+          <p>
+            De vraag naar een passende uitvaart- en/of overlijdensrisicoverzekering is de afgelopen jaren sterk
+            gestegen. Desondanks heeft de meerderheid weinig tot geen kennis over deze verzekeringsproducten. Door te
+            vergelijken zeg je gedag tegen onnodig dure polissen.
+          </p>
+          <p>
+            Op Uitvaartpolis-online.com kun je naast het vergelijken van alle aanbieders ook terecht voor actuele
+            informatiegidsen. Het kan natuurlijk zijn dat een vraagstuk onbehandeld is gebleven &mdash; laat het ons
+            vooral weten, tips en vragen zijn welkom.
+          </p>
+        </div>
+      </article>
+
+      <aside class="aside">
+        <div class="box accent">
+          <h3>Liever direct mailen?</h3>
+          <p>Stuur je bericht naar info@uitvaartpolis-online.com. Binnen 24 uur ontvang je een reactie van ons.</p>
+          <a class="btn no-arrow" href="mailto:info@uitvaartpolis-online.com">Mail ons</a>
+        </div>
+        <div class="box">
+          <h3>Bezoekadres</h3>
+          <p style="margin-bottom:10px">
+            Uitvaartpolis-online.com<br />
+            LGX BV<br />
+            Klokgebouw 141<br />
+            5617 AB Eindhoven
+          </p>
+          <p style="margin:0;font-size:.82rem">Voor een bezoek aan onze locatie is een afspraak nodig.</p>
+        </div>
+        <div class="box">
+          <h3>Veelgestelde vragen</h3>
+          <p>Neem een kijkje in de kennisbank, wellicht staat je vraag er al tussen.</p>
+          <div class="links">
+            <a href="/kennisbank/">Naar de kennisbank</a>
+            <a href="/reviews/">Alle verzekeraars beoordeeld</a>
+          </div>
+        </div>
+      </aside>
+    </div>
+  </div>
+</BaseLayout>

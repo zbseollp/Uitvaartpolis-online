@@ -1,0 +1,164 @@
+---
+/*
+ * Contactformulier via Web3Forms, met Cloudflare Turnstile als captcha.
+ *
+ * - accessKey  : Web3Forms access key (bepaalt naar welk mailadres het gaat)
+ * - turnstile  : sitekey van de Turnstile-widget in het Cloudflare-account
+ * - botcheck   : verborgen honeypot van Web3Forms; bots vullen die in en worden geweigerd
+ *
+ * Het versturen gaat via fetch, zodat de bezoeker op de pagina blijft en direct
+ * een bevestiging ziet in plaats van doorgestuurd te worden.
+ */
+interface Props {
+  accessKey: string;
+  turnstileSiteKey: string;
+  subject: string;
+  siteName: string;
+  salutation?: boolean;
+}
+const {
+  accessKey,
+  turnstileSiteKey,
+  subject,
+  siteName,
+  salutation = false,
+} = Astro.props;
+const formId = 'contactform';
+---
+<div class="form-card">
+  <form id={formId} class="form-grid" novalidate>
+    <input type="hidden" name="access_key" value={accessKey} />
+    <input type="hidden" name="subject" value={subject} />
+    <input type="hidden" name="from_name" value={siteName} />
+
+    <div class="hp" aria-hidden="true">
+      <label>
+        Laat dit veld leeg als je een mens bent
+        <input type="checkbox" name="botcheck" tabindex="-1" autocomplete="off" />
+      </label>
+    </div>
+
+    {salutation && (
+      <div class="field">
+        <label for="cf-aanhef">Aanhef</label>
+        <select id="cf-aanhef" name="Aanhef">
+          <option value="">Geen voorkeur</option>
+          <option value="Dhr.">Dhr.</option>
+          <option value="Mevr.">Mevr.</option>
+        </select>
+      </div>
+    )}
+
+    <div class="form-row">
+      <div class="field">
+        <label for="cf-naam">Naam <span class="req" aria-hidden="true">*</span></label>
+        <input id="cf-naam" name="Naam" type="text" autocomplete="name" required maxlength="120" />
+        <p class="field-error" data-for="cf-naam"></p>
+      </div>
+      <div class="field">
+        <label for="cf-email">E-mailadres <span class="req" aria-hidden="true">*</span></label>
+        <input id="cf-email" name="email" type="email" autocomplete="email" required maxlength="180" />
+        <p class="field-error" data-for="cf-email"></p>
+      </div>
+    </div>
+
+    <div class="field">
+      <label for="cf-onderwerp">Onderwerp</label>
+      <input id="cf-onderwerp" name="Onderwerp" type="text" maxlength="150" />
+    </div>
+
+    <div class="field">
+      <label for="cf-bericht">Je vraag of bericht <span class="req" aria-hidden="true">*</span></label>
+      <textarea id="cf-bericht" name="Bericht" required minlength="10" maxlength="4000"></textarea>
+      <p class="field-error" data-for="cf-bericht"></p>
+    </div>
+
+    <div class="field">
+      <div class="cf-turnstile" data-sitekey={turnstileSiteKey} data-language="nl" data-theme="light"></div>
+      <p class="field-error" data-for="turnstile"></p>
+    </div>
+
+    <div class="form-foot">
+      <button class="btn no-arrow" type="submit" data-label="Verstuur bericht">Verstuur bericht</button>
+      <p class="form-note">
+        Velden met <span class="req">*</span> zijn verplicht. We gebruiken je gegevens alleen om je vraag te
+        beantwoorden.
+      </p>
+    </div>
+
+    <p class="form-status" id="cf-status" role="status" aria-live="polite" hidden></p>
+  </form>
+</div>
+
+<script is:inline async defer src="https://challenges.cloudflare.com/turnstile/v0/api.js"></script>
+<script is:inline>
+  (function () {
+    var form = document.getElementById('contactform');
+    if (!form) return;
+    var status = document.getElementById('cf-status');
+    var button = form.querySelector('button[type="submit"]');
+
+    function err(id, msg) {
+      var el = form.querySelector('.field-error[data-for="' + id + '"]');
+      if (el) el.textContent = msg || '';
+      var input = document.getElementById(id);
+      if (input) {
+        if (msg) input.setAttribute('aria-invalid', 'true');
+        else input.removeAttribute('aria-invalid');
+      }
+      return !msg;
+    }
+
+    function show(state, msg) {
+      status.hidden = false;
+      status.setAttribute('data-state', state);
+      status.textContent = msg;
+    }
+
+    function validate() {
+      var ok = true;
+      var naam = document.getElementById('cf-naam');
+      var mail = document.getElementById('cf-email');
+      var ber = document.getElementById('cf-bericht');
+      ok = err('cf-naam', naam.value.trim() ? '' : 'Vul je naam in.') && ok;
+      ok = err('cf-email', /^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(mail.value.trim()) ? '' : 'Vul een geldig e-mailadres in.') && ok;
+      ok = err('cf-bericht', ber.value.trim().length >= 10 ? '' : 'Schrijf een bericht van minimaal 10 tekens.') && ok;
+      var token = form.querySelector('[name="cf-turnstile-response"]');
+      ok = err('turnstile', token && token.value ? '' : 'Bevestig even dat je geen robot bent.') && ok;
+      return ok;
+    }
+
+    form.addEventListener('submit', function (e) {
+      e.preventDefault();
+      status.hidden = true;
+      if (!validate()) return;
+
+      button.disabled = true;
+      button.textContent = 'Versturen…';
+
+      var data = Object.fromEntries(new FormData(form));
+      fetch('https://api.web3forms.com/submit', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
+        body: JSON.stringify(data),
+      })
+        .then(function (r) { return r.json(); })
+        .then(function (res) {
+          if (res.success) {
+            form.reset();
+            if (window.turnstile) window.turnstile.reset();
+            show('ok', 'Bedankt, je bericht is verstuurd. We reageren binnen 24 uur.');
+          } else {
+            show('err', res.message || 'Er ging iets mis bij het versturen. Probeer het later opnieuw.');
+          }
+        })
+        .catch(function () {
+          show('err', 'We konden je bericht niet versturen. Controleer je verbinding of mail ons rechtstreeks.');
+        })
+        .finally(function () {
+          button.disabled = false;
+          button.textContent = button.getAttribute('data-label');
+        });
+    });
+  })();
+</script>
