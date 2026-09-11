@@ -1,16 +1,23 @@
 /**
- * Restore nested blog folders after Payload sync.
+ * Restore nested blog folders after a Payload sync that wiped them.
  *
- * tenant-cli sync only readdir()s the blog root, then rm -rf the tree and
- * writes Payload posts as flat <slug>.md. That deletes kennisbank/, reviews/,
- * begrafenisondernemer/ and de/, so those articles 404 on the live site.
- * Jenkins still clones the full git tree first — check those dirs back out
- * before `astro build`.
+ * Older tenant-cli only readdir()s the blog root, then rm -rf the tree.
+ * If kennisbank/ (etc.) is already present — newer sync kept it — leave it
+ * so CMS edits are not overwritten by git checkout.
  */
 import { spawnSync } from 'node:child_process'
-import { existsSync } from 'node:fs'
+import { existsSync, readdirSync } from 'node:fs'
 
 const nested = ['kennisbank', 'reviews', 'begrafenisondernemer', 'de']
+
+function missingOrEmpty(rel) {
+  if (!existsSync(rel)) return true
+  try {
+    return readdirSync(rel).length === 0
+  } catch {
+    return true
+  }
+}
 
 if (!existsSync('.git')) {
   console.log('[restore-nested-blog] no .git — skip')
@@ -19,6 +26,10 @@ if (!existsSync('.git')) {
 
 for (const dir of nested) {
   const rel = `src/content/blog/${dir}`
+  if (!missingOrEmpty(rel)) {
+    console.log(`[restore-nested-blog] keep ${rel} (present after sync)`)
+    continue
+  }
   const result = spawnSync('git', ['checkout', 'HEAD', '--', rel], { encoding: 'utf8' })
   if (result.status === 0) {
     console.log(`[restore-nested-blog] restored ${rel}`)
