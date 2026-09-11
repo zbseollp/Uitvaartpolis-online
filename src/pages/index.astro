@@ -4,12 +4,13 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import CompareWidget from '../components/CompareWidget.astro';
 import PostGrid from '../components/PostGrid.astro';
 import Stars from '../components/Stars.astro';
+import { isBlogIndexPost } from '../lib/posts';
 
 const all = await getCollection('blog');
 const byDate = (a: any, b: any) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf();
 const withImage = (p: any) => Boolean(p.data.image);
 
-const blogPosts = all.filter((p) => (p.data.categories ?? []).includes('Blog')).sort(byDate).slice(0, 3);
+const blogPosts = all.filter(isBlogIndexPost).sort(byDate).slice(0, 3);
 const kennisbank = all
   .filter((p) => p.id.startsWith('kennisbank/'))
   .sort((a, b) => Number(withImage(b)) - Number(withImage(a)) || byDate(a, b))

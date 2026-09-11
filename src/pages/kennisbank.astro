@@ -2,6 +2,7 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 import sections from '../data/kennisbank.json';
+import { findPostBySectionSlug, postHref } from '../lib/posts';
 
 const all = await getCollection('blog');
 const byId = new Map(all.map((e) => [e.id, e]));
@@ -16,7 +17,7 @@ const populair = all
 const plaatsen = all
   .filter((e) => e.id.startsWith('begrafenisondernemer/'))
   .map((e) => ({
-    href: `/${e.id}/`,
+    href: postHref(e),
     naam: e.data.title.replace(/^Begrafenisondernemer\s*/i, '').split(/[,|–—-]/)[0].trim(),
   }))
   .sort((a, b) => a.naam.localeCompare(b.naam, 'nl'));
@@ -24,9 +25,9 @@ const plaatsen = all
 const groepen = sections.map((s) => ({
   ...s,
   artikelen: s.slugs
-    .map((slug) => byId.get(`kennisbank/${slug}`))
+    .map((slug) => findPostBySectionSlug(all, 'kennisbank', slug) ?? byId.get(`kennisbank/${slug}`))
     .filter(Boolean)
-    .map((e) => ({ href: `/kennisbank/${e!.id.split('/').pop()}/`, titel: e!.data.title }))
+    .map((e) => ({ href: postHref(e!), titel: e!.data.title }))
     .sort((a, b) => a.titel.localeCompare(b.titel, 'nl')),
 }));
 
